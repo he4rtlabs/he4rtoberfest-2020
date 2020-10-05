@@ -15,8 +15,6 @@ calc <- function(nota1, nota2){
   
   resp <- (nota1+nota2)/2
   
-  resp <- as.character(resp)
-  
   print("A sua média é:")
   print(resp)
 }
