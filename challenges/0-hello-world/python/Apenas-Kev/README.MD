@@ -10,7 +10,7 @@
 
 **Dificuldade de Resolução:** - Baixa
 
-**Comentários:** fiz um hello world usando coisas que eu tenho estudado recentemente
+**Comentários:** fiz um hello world usando umas coisas que eu tenho estudado recentemente
 
 **Como rodar o desafio**: 
 
