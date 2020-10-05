@@ -1,20 +1,32 @@
 import 'dart:io';
 
 void main() {
-
   print("\n");
-  
-  var nota1 = double.parse(getInputValue("Insira a nota 1: "));
-  var nota2 = double.parse(getInputValue("Insira a nota 2: "));
 
-  var media  = (nota1 + nota2) / 2;
+  try {
+    
+    var qtdeNotas = int.parse(getInputValue("Insira a quantidade de notas: "));
+    double somaNotas = 0;
 
-  stdout.write("\nMédia -> " + media.toString());
+    print("\n");
+
+    for (var i = 1; i <= qtdeNotas; i++) {
+      var nota = double.parse(getInputValue("Insira a nota $i: "));
+      somaNotas += nota;
+    }
+
+    var media = somaNotas / qtdeNotas;
+
+    stdout.write("\nMédia -> " + media.toStringAsFixed(2));
+
+  } catch (e) {
+    print(
+        "\nHouve um erro ao capturar o valor informado. Verifique se é um número e tente novamente.");
+    exit(1);
+  }
 }
 
 String getInputValue(String title) {
-
   stdout.write(title);
   return stdin.readLineSync();
-
 }
