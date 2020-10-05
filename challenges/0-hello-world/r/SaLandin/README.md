@@ -4,11 +4,11 @@
 
 **Nickname:** SaLandin
 
-**Nível Técnico:** - Estudante/Estagiário/Junior/Pleno/Senior - Estudante
+**Nível Técnico:** - Estudante
 
 **Twitter**: https://twitter.com/Rafaelsm_f95 
 
-**Dificuldade de Resolução:** - Baixa/Média/Alta - Baixa
+**Dificuldade de Resolução:** - Baixa
 
 **Comentários:** NA
 
