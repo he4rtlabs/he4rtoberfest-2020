@@ -8,11 +8,15 @@ void main() {
 
   var commonsLetters = [];
 
+  print("\n");
+
   for (var i = 1; i <= int.parse(quantidadeCasos); i++) {
     var frase = getInputValue("Informe a frase $i: ");
 
     commonsLetters.add(getCommonsLetters(frase));
   }
+
+  print("\nLetras mais frequentes: ");
 
   for (var item in commonsLetters) {
     print(item.join(''));
@@ -27,20 +31,29 @@ List getCommonsLetters(String text) {
   var letters = text.split('').map((letter) => letter);
 
   for (var letter in letters) {
-
     letter = letter.toLowerCase();
 
-    var currentMax = text.toLowerCase().split(letter).length -1;
+    var currentMax = text.toLowerCase().split(letter).length - 1;
 
-    if (letter != ' ' && currentMax >= max && !arrayHasLetter(commonsLetters, letter)) {
+    if (letter != ' ' &&
+        currentMax >= max &&
+        !arrayHasLetter(commonsLetters, letter)) {
       max = currentMax;
       commonsLetters.add({'letter': letter, 'times': currentMax});
     }
   }
 
-  var maxLetters = commonsLetters.where((obj) => obj['times'] == max);
+  var maxLetters = getEqualsMaxLetters(commonsLetters, max);
 
-  return (maxLetters.map((e) => e['letter']).toList());
+  return getLettersInMap(maxLetters);
+}
+
+List getLettersInMap(arrayMap) {
+  return arrayMap.map((e) => e['letter']).toList();
+}
+
+Iterable<Map> getEqualsMaxLetters(arrayMap, max) {
+  return arrayMap.where((obj) => obj['times'] == max);
 }
 
 bool arrayHasLetter(commonsLetters, letter) {
