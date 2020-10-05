@@ -8,13 +8,13 @@
 
 **Twitter**:
 
-**Dificuldade de Resolução:** - Baixa/Média/Alta -
+**Dificuldade de Resolução:** Baixa
 
-**Comentários:** Nesse desafio eu achei que ... (Opcional)
+**Comentários:**
 
 **Como rodar o desafio**: 
 
 Use o comando abaixo: 
 ```bash
-php helloworld.php argv1 argv2 argv3
+go run challenge.go
 ```
