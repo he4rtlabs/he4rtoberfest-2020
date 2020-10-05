@@ -10,6 +10,7 @@ void main() {
   } catch (e) {
     print(
         "\nHouve um erro ao capturar o dado. Verifique-o e tente novamente.\n\n");
+        return;
   }
 
   if (number < 1) {
