@@ -19,6 +19,6 @@ foreach ($notas as $key => $value) {
     $notas[$key] = (float)$value;
 }
 
-$media = ($notas[0] + $notas[1]) / 2;
+$media = array_sum($notas) / 2;
 
 echo 'A média deu -> '. $media;
