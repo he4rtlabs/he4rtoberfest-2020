@@ -17,7 +17,7 @@
 Use o comando abaixo: Considerando que você já tenha a JDK configurada em sua máquina
 
 ```bash
-cd  he4rtoberfest-2021/challenges/0-hello-world/java/godsensehl/src
+cd  he4rtoberfest-2021/challenges/0-hello-world/java/godsensehl
 
 javac Hello_World.java   (compila)
 
