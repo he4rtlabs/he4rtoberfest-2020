@@ -6,7 +6,7 @@
 
 **Nível Técnico:** - Estudante
 
-**Twitter**: https://twitter.com/zuruckt (opcional)
+**Twitter**: https://twitter.com/zuruckt
 
 **Dificuldade de Resolução:** - Baixa
 
