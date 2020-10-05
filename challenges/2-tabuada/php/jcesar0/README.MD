@@ -16,5 +16,5 @@
 
 Use o comando abaixo: 
 ```bash
-php helloworld.php {numero_da_tabuada} {limite_tabuada}
+php tabuada.php {numero_da_tabuada} {limite_tabuada}
 ```
