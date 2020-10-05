@@ -22,9 +22,9 @@ cd ./challenges/0-hello-world/java/gabrielvieira18
 
 Run the javac command to compile the .java file
 
-javac Main.java
+javac App.java
 
 And then run the compiled file using the java command
 
-java Main
+java App
 ```
