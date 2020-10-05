@@ -15,3 +15,4 @@ for ($multiplicando = 1; $multiplicando <= $limite; $multiplicando++) {
     }
     echo PHP_EOL;
 }
+
