@@ -17,5 +17,5 @@
 Instale o [Ruby](https://www.ruby-lang.org/pt/documentation/installation/)
 Acesse o diretório onde está o arquivo .rb e execute o comando: 
 ```bash
-ruby hello.rb
+ruby challenge.rb
 ```
