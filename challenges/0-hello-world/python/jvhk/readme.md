@@ -20,7 +20,7 @@ cd \he4rtoberfest-2021\challenges\0-hello-world\python\jvhk
 
 Após isso executar a próxima instrução abaixo.
 
-**Use o comando abaixo: 
+**Use o comando abaixo**: 
 ```bash
 python hello.py
 ```
