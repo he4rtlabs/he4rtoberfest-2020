@@ -12,6 +12,6 @@
 
 **Como rodar o desafio**:
 
-- Abra o playground
+- Abra o playground https://amazing-tereshkova-2b441c.netlify.app/
 - Cole o código no playground
 - Clique em "ir pro jogo"
