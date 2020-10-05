@@ -8,7 +8,7 @@
 
 **Twitter**: https://twitter.com/zuruckt (opcional)
 
-**Dificuldade de Resolução:** - Baixa/Média/Alta -
+**Dificuldade de Resolução:** - Baixa
 
 **Comentários:** Safe
 
