@@ -9,4 +9,4 @@ const tabuada = (n) => {
   return 'He4rtoberfest!!';
 }
 
-console.log(tabuada(2));
+tabuada(2);
