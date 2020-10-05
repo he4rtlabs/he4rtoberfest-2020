@@ -1,5 +1,5 @@
 const main = () =>{
-    const mensagem = "Faaaala Dev,bora participar do hea4rtoberfest 2020"
+    const mensagem = "Hello World"
     console.log(mensagem);
 }
 
