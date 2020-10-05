@@ -6,7 +6,7 @@
 
 **Nível Técnico:** - Estudante/Estagiário -
 
-**Twitter**: https://twitter.com/Xandy_Moraiis (opcional)
+**Twitter**: https://twitter.com/Xandy_Moraiis
 
 **Dificuldade de Resolução:** - Baixa -
 
