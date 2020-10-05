@@ -20,7 +20,7 @@ Exemplo 2:
 ```
 
 **Output**:
-A saída contém uma linha, que pode ser “Senha valida.”, caso a senha tenha cada item dos requisitos solicitados anteriormente, ou “Senha invalida.”, se um ou mais requisitos não forem atendidos.
+Os valores devem ser mostrados na mesma linha, separados por um espaço em branco. Não deve haver espaço após o último valor.
 
 Saída 1:
 ```
