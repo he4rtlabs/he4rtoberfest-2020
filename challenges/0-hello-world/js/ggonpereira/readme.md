@@ -10,8 +10,6 @@
 
 **Dificuldade de Resolução:** Baixa
 
-**Comentários:**
-
 **Como rodar o desafio**: Abrir o console do navegador kk.
 
 Use o comando abaixo: 
