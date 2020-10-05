@@ -10,7 +10,7 @@
 
 **Dificuldade de Resolução:** - Baixa -
 
-**Comentários:** Desafio Simples e tranquilo para testar se o seu ambiente de desenvovilmento java está 100% configurado 
+**Comentários:** Desafio simples e tranquilo para testar se o seu ambiente de desenvovilmento java está 100% configurado 
 
 **Como rodar o desafio**: 
 
