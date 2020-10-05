@@ -1,10 +1,20 @@
-function averageStudent(firstNote, secondNote) {
-    if (typeof firstNote !== 'number' || typeof secondNote !== 'number') {
-        return 'Valor inválido, utilize apenas números.';
+function averageStudent(...notes) {
+    let average;
+    let sumAllNotes = 0;
+
+    for (let i = 0; i < notes.length; i++) {
+        if (typeof notes[i] !== 'number') {
+            return 'Valor inválido, utilize apenas números.';
+        } else {
+            sumAllNotes += notes[i];
+        };
     };
 
-    return (firstNote + secondNote) / 2;
+    average = sumAllNotes / (notes.length);
+
+    return average;
 };
 
+console.log(averageStudent(22, 53, 10, 23, 231)); // 67.8
 console.log(averageStudent(22, 53)); // 37.5
 console.log(averageStudent(22, 'a')); // valor inválido test
