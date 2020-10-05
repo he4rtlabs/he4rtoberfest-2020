@@ -8,7 +8,7 @@
 
 **Twitter**: https://twitter.com/MeninoPacheco
 
-**Dificuldade de Resolução:** - Baixa/Média/Alta -
+**Dificuldade de Resolução:** - Baixa
 
 **Comentários:** ^._.^
 
