@@ -6,8 +6,6 @@
 
 **Nível Técnico:** Junior
 
-**Twitter**: 
-
 **Dificuldade de Resolução:** Baixa
 
 **Comentários:** interessante
