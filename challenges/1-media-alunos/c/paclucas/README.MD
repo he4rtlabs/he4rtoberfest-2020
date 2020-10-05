@@ -16,5 +16,5 @@
 
 Use o comando abaixo: 
 ```bash
-gcc mediaAlunos.c
+gcc mediaAlunos.c -o mediaAlunos && ./mediaAlunos
 ```
