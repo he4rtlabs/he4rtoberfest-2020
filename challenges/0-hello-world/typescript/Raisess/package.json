@@ -1,0 +1,14 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Hello World!",
+  "main": "./src/index.ts",
+  "scripts": {
+		"start": "ts-node ./src/index.ts",
+		"install-tsnode": "npm install -g typescript ts-node",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "https://github.com/Raisess",
+  "license": ""
+}
