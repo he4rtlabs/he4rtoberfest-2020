@@ -6,7 +6,7 @@
 
 **Nível Técnico:** - Estudante/Estagiário -
 
-**Twitter**: https://twitter.com/Xandy_Moraiis (opcional)
+**Twitter**: https://twitter.com/Xandy_Moraiis
 
 **Dificuldade de Resolução:** - Baixa -
 
@@ -14,7 +14,7 @@
 
 **Como rodar o desafio**: 
 
-Navegue ate a pasta e use o comando abaixo: 
+Navegue atá a pasta e use o comando abaixo: 
 ```bash
 node index.js
 ```
