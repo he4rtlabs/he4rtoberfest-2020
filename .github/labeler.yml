@@ -1,0 +1,33 @@
+# Challenge Tags
+challenge-0:
+  - challenges/0-hello-world/*
+challenge-1:
+  - challenges/1-media-alunos/*
+challenge-2:
+  - challenges/2-tabuada/*
+challenge-3:
+  - challenges/3-area-trapezio/*
+challenge-4:
+  - challenges/4-cifra-de-cesar/*
+challenge-5:
+  - challenges/5-frequencia-das-letras/*
+challenge-6:
+  - challenges/6-abracadabra/*
+challenge-7:
+  - challenges/7-valida-senha/*
+
+# Language Tags
+JS: challenges/**/js/**/*.js
+PHP: challenges/**/php/**/*.php
+Java: challenges/**/java/**/*.java
+C: 'challenges/**/c/**/*.c'
+C++: 'challenges/**/cpp/**/*.cpp'
+Python: 'challenges/**/python/**/*.py'
+R: 'challenges/**/r/**/*.r'
+Rust: 'challenges/**/rust/**/**/*.rs'
+Ruby: 'challenges/**/ruby/**/**/*.rb'
+Go: 'challenges/**/go/**/**/*.go'
+Elixir: 'challenges/**/elixir/**/*.ex'
+Dart: 'challenges/**/dart/**/*.dart'
+Type Script: 'challenges/**/ts/**/*.ts'
+Lua: 'challenges/**/lua/**/*.lua'
