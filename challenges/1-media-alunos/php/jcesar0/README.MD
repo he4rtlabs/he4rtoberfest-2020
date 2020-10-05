@@ -10,7 +10,7 @@
 
 **Dificuldade de Resolução:** Baixa
 
-**Comentários:** 
+**Comentários:** facil
 
 **Como rodar o desafio**: 
 
