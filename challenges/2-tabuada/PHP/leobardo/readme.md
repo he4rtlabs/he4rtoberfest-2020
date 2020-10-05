@@ -10,7 +10,7 @@
 
 **Dificuldade de Resolução:** - Baixa
 
-**Comentários:** Nesse desafio eu achei que ... (Opcional)
+**Comentários:** Foi daora, já tinha feito antes. São basicamente dois loops, um para fazer a repetição da tábuada do multiplicando até chegar ao limite digitado pelo usuário, e outro loop dentro dele para fazer a repetição da linha até chegar a 10.
 
 **Como rodar o desafio**: 
 
