@@ -2,19 +2,19 @@
 
 **Exercicio:** 0 - Hello World
 
-**Nickname:** danielhe4rt
+**Nickname:** Apenas-Kev
 
-**Nível Técnico:** - Estudante/Estagiário/Junior/Pleno/Senior -
+**Nível Técnico:** - Estudante
 
-**Twitter**: https://twitter.com/danielhe4rt (opcional)
+**Twitter**: https://twitter.com/Apenas_Kev
 
-**Dificuldade de Resolução:** - Baixa/Média/Alta -
+**Dificuldade de Resolução:** - Baixa
 
-**Comentários:** Nesse desafio eu achei que ... (Opcional)
+**Comentários:** fiz um hello world usando coisas que eu tenho estudado recentemente
 
 **Como rodar o desafio**: 
 
 Use o comando abaixo: 
 ```bash
-php helloworld.php argv1 argv2 argv3
+python3 Aló-Mundo.py 
 ```
