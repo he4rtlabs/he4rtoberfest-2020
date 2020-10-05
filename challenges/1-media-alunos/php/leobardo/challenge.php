@@ -1,14 +1,15 @@
 <?php
 
-if($argc !== 3){
-    echo 'Passe duas notas como argumentos.';
+// varias notas
+
+if($argc == 1){
+    echo 'Passe pelo menos duas notas como argumento.';
     exit;
 }
 
-$notas = [
-    $argv[1],
-    $argv[2],
-];
+$notas = array_filter($argv, function($element){
+    return !strpos($element, 'challenge.php');
+});
 
 foreach ($notas as $key => $value) {
     if(!is_numeric($value)){
@@ -19,6 +20,6 @@ foreach ($notas as $key => $value) {
     $notas[$key] = (float)$value;
 }
 
-$media = array_sum($notas) / 2;
+$media = array_sum($notas) / count($notas);
 
 echo 'A média deu -> '. $media;
