@@ -17,4 +17,4 @@
 Use o comando abaixo: 
 cd .\challenges\0-hello-world\java\xsadia> <br />
 compile com javac App.java <br />
-rode com java App 
+rode com java App <br />
