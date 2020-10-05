@@ -1,14 +1,27 @@
-# Desafio #1
+# Submissão de Exercicio
 
-**Nome:** 1 - Média de alunos
+**Exercicio:** 1 - Média
 
-**Descrição:** Desenvolva um programa que leia as duas notas de um aluno e calcule a sua média aritmética.
+**Nickname:** hk
 
-**Input/Args**: 22 53
+**Nível Técnico:** - Estudante -
 
-**Output**: 
+**Twitter**: https://twitter.com/joaovdoc 
 
+**Dificuldade de Resolução:** - Baixa -
+
+**Comentários:**
+
+**Como rodar o desafio**: 
+Você deve chegar até a pasta do desafio pelo comando 
+
+```bash
+cd \he4rtoberfest-2021\challenges\1-media-alunos
 ```
-Média -> 37.5
-```
 
+e executar o comando do próximo passo abaixo.
+
+Use o comando abaixo: 
+```bash
+python media.py
+```
