@@ -10,9 +10,7 @@
 
 **Dificuldade de Resolução:** - Baixa
 
-**Comentários:** 
-
-**Como rodar o desafio**: 
+**Como rodar o desafio**: É necessário ter node instalado
 
 Use o comando abaixo: 
 ```bash
