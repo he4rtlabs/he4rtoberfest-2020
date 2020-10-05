@@ -1,6 +1,6 @@
 # Submissão de Exercicio
 
-**Exercicio:** 3 - Trapézio
+**Exercicio:** 3 - Trapezio
 
 **Nickname:** PacLucas
 
@@ -10,9 +10,11 @@
 
 **Dificuldade de Resolução:** - Baixa
 
-**Comentários:** SAI DE CASA CODEI PRA CAR4LH0!
+**Comentários:** ^._.^
 
 **Como rodar o desafio**: 
-- Abrir site do interpretador de BIRL:
-https://birl-language.github.io/
-- Colar o código e executar
+
+Use o comando abaixo: 
+```bash
+gcc trapezio.c -o trapezio && ./trapezio
+```
