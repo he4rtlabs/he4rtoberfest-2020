@@ -54,7 +54,7 @@ Quando você for criar a branch para mandar o Pull Request, você deverá seguir
 4. Crie uma pasta da linguagem que você escolheu no diretório `challenges/id_challenge/lang/`
 5. Depois dentro desta pasta lang crie a pasta com seu nickname ficando assim `challenges/id_challenge/lang/nickname`
 6. Resolva o desafio
-7. Copie o model.md para a sua pasta e preencha com as informações descritas
+7. Copie o model.md para a sua pasta, preencha com as informações descritas e renomeie o arquivo para **README.MD**
 8. Crie um branch com o desafio seguindo o modelo ao lado `(git checkout -b challenges/id_challenge/lang/nickname)`
 9. O exemplo acima ficaria assim do desafio 0 feito em PHP: `(git checkout -b challenges/0/php/danielhe4rt)`
 10. Depois faça `git add .`
