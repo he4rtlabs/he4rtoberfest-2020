@@ -6,7 +6,7 @@
 
 **Nível Técnico:** Junior
 
-**Twitter**: https://twitter.com/usb777_
+**Twitter**: https://twitter.com/rafael_mds1
 
 **Dificuldade de Resolução:** Baixa
 
