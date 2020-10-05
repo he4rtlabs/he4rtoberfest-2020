@@ -6,7 +6,7 @@
 
 **Nível Técnico:** - Estudante
 
-**Twitter**: https://twitter.com/afelipp3 (opcional)
+**Twitter**: https://twitter.com/afelipp3 
 
 **Dificuldade de Resolução:** - Baixa
 
