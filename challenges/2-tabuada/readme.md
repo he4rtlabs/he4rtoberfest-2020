@@ -5,7 +5,7 @@
 
 **Descrição:** Faça um programa que leia um número inteiro qualquer e crie a tabuada do 1 até o número escolhido
 
-**Input/Args**: 2
+**Input/Args**: 2 
 
 **Output**: 
 
