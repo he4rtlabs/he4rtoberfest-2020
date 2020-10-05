@@ -1,18 +1,37 @@
 /** 
  * Script que informa a média de duas notas de um aluno.
  * 
- * Resolução: Neste desafio criei duas variáveis e atribui valores a elas, sendo 22 e 53 respectivamente.
- * Criei uma função chamada calcularMedia, onde esta função pede duas variáveis como argumento/parâmetro
- * A função recebe esses dois valores soma e depois divide por 02 e atribui o resultado em uma nova variável e então renorta esta variável.
- * O último passo é "chamar" a função dentro de um console.log, passando as duas variáveis criadas no começo do script como argumento. E então o resultado será impresso!
+ * Resolução: Criei um ARRAY chamado notas, onde o usuário pode adicionar quantos notas ele quiser neste array, após isto
+ * criei uma função contendo três variáveis, uma para receber a soma das notas, outra para receber a quantidade de notas validas e a última para armazenar a média
+ * Usei um laço FOR para passar por todos os valores do array e fazer a verificação se é um NUMBER utilizando um IF
+ * Caso seja um número, o valor daquele index do array será adicionado na variável soma e será adicionado +1 na variável quantidade
+ * Após isto é armazenado a divisão da soma das notas pela quantidade de notas e mostrado ao usuário.
+ * 
  */
 
-var notaUm = 22;
-var notaDois = 53;
+var notas = [];
 
-function calcularMedia(notaUm, notaDois) {
-    var media = (notaUm + notaDois) / 2;
-    return(media);
+notas[0] = 22; 
+notas[1] = 53;
+notas[2] = "He4rt é a melhor comunidade."; // Adicionei este valor para testar se ele será desconsiderado na validação de número.
+
+
+function calcularMedia(notas) {
+    var somaNotas = 0; // Essa variável irá armazenar a soma de todas as notas "corretas"
+    var qntNotas = 0; // Essa variável irá armazenar a quantidade de notas "corretas"
+    var media = 0; // Essa variável irá armazenar a média das notas.
+
+    // Esse laço FOR serve para passar por todos itens do array.
+    for(let i = 0; i < notas.length; i++) {
+        // Esse IF serve para verificar se o item do array é um número
+        if(typeof notas[i] === "number") {
+            somaNotas += notas[i]; // Se for um número, o valor será adicioando na variável que contem a soma dos valores.
+            qntNotas += 1; // E será adicionado mais um valor na variável que armazena a quantidade de notas "corretas".
+        }
+    }
+
+    media = somaNotas / qntNotas; // Faz o calculo da média dividindo a soma das notas pela quantidade de notas.
+    return(media); // Retorna a variável.
 }
 
-console.log("A média do aluno foi: " + calcularMedia(notaUm, notaDois));
+console.log("A média do aluno foi: " + calcularMedia(notas));
