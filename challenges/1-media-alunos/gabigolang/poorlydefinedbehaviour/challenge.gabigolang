@@ -1,0 +1,5 @@
+POZE average(x, y){
+  GLOBO (x + y) / 2
+}
+
+PLAQUINHA average(22, 53)
