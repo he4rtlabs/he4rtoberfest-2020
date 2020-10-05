@@ -16,9 +16,9 @@
 
 Para executar esse projeto rode esse comando no terminal para compilar esse arquivo:
 
-javac HelloWorld.java
+javac MediaAritmetica.java
 
 E depois rode essse comando para executar:
 
-java HelloWorld
+java MediaAritmetica
 ```
