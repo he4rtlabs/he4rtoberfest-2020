@@ -29,6 +29,7 @@ Na lista abaixo estarão todos os exercicios que iremos aceitar nos nossos pull 
 - [5 - Frequência das Letras](./challenges/5-frequencia-das-letras/readme.md)
 - [6 - Abracadabra](./challenges/6-abracadabra/readme.md)
 - [7 - Validador de Senhas](./challenges/7-valida-senha/readme.md)
+- [8 - Fibonacci Fácil](./challenges/8-fibonacci/readme.md)
 
 Caso você queira dar sugestões de desafios, contate algum moderador no [Discord da He4rt](https://discord.gg/he4rt).
   
