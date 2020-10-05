@@ -1,0 +1,15 @@
+POZE multiplicationTable(number) {
+  PLAQUINHA "A tabuada do número " + number + " é:"
+
+  POZE go(x) {
+    PLAQUINHA number + " * " + x + " = " + (x * number)
+    
+    GOL(x < 10){
+      go(x + 1)
+    }
+  }
+
+  go(0)
+}
+
+multiplicationTable(2)
