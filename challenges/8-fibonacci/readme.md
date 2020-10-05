@@ -32,4 +32,4 @@ Saída 2:
 ```
 
 
-**Desafio retirado do URI Judge:** [Validador de Senhas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1151)
+**Desafio retirado do URI Judge:** [Fibonacci Fácil](https://www.urionlinejudge.com.br/judge/pt/problems/view/1151)
