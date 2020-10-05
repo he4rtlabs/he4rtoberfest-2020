@@ -1,0 +1,12 @@
+C:\Users\pc\Desktop\he4rtoberfest-2021\challenges\1-media-alunos\vb\cristopherpds\media-alumnos\media-alumnos\bin\Debug\media-alumnos.exe.config
+C:\Users\pc\Desktop\he4rtoberfest-2021\challenges\1-media-alunos\vb\cristopherpds\media-alumnos\media-alumnos\bin\Debug\media-alumnos.exe
+C:\Users\pc\Desktop\he4rtoberfest-2021\challenges\1-media-alunos\vb\cristopherpds\media-alumnos\media-alumnos\bin\Debug\media-alumnos.pdb
+C:\Users\pc\Desktop\he4rtoberfest-2021\challenges\1-media-alunos\vb\cristopherpds\media-alumnos\media-alumnos\bin\Debug\media-alumnos.xml
+C:\Users\pc\Desktop\he4rtoberfest-2021\challenges\1-media-alunos\vb\cristopherpds\media-alumnos\media-alumnos\obj\Debug\media-alumnos.vbprojAssemblyReference.cache
+C:\Users\pc\Desktop\he4rtoberfest-2021\challenges\1-media-alunos\vb\cristopherpds\media-alumnos\media-alumnos\obj\Debug\media_alumnos.Form1.resources
+C:\Users\pc\Desktop\he4rtoberfest-2021\challenges\1-media-alunos\vb\cristopherpds\media-alumnos\media-alumnos\obj\Debug\media_alumnos.Resources.resources
+C:\Users\pc\Desktop\he4rtoberfest-2021\challenges\1-media-alunos\vb\cristopherpds\media-alumnos\media-alumnos\obj\Debug\media-alumnos.vbproj.GenerateResource.cache
+C:\Users\pc\Desktop\he4rtoberfest-2021\challenges\1-media-alunos\vb\cristopherpds\media-alumnos\media-alumnos\obj\Debug\media-alumnos.vbproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\he4rtoberfest-2021\challenges\1-media-alunos\vb\cristopherpds\media-alumnos\media-alumnos\obj\Debug\media-alumnos.exe
+C:\Users\pc\Desktop\he4rtoberfest-2021\challenges\1-media-alunos\vb\cristopherpds\media-alumnos\media-alumnos\obj\Debug\media-alumnos.xml
+C:\Users\pc\Desktop\he4rtoberfest-2021\challenges\1-media-alunos\vb\cristopherpds\media-alumnos\media-alumnos\obj\Debug\media-alumnos.pdb
