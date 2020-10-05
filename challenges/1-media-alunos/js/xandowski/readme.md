@@ -14,7 +14,7 @@
 
 **Como rodar o desafio**: 
 
-Navegue atá a pasta e use o comando abaixo: 
+Navegue até a pasta e use o comando abaixo: 
 ```bash
 node index.js
 ```
