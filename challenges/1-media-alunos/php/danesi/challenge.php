@@ -1,8 +1,12 @@
 <?php
 
-$primeiraNota = $argv[1];
-$segundaNota = $argv[2];
+$soma = 0;
+foreach ($argv as $nota) {
+    if ($nota != 'challenge.php') {
+        $soma += $nota;
+    }
+}
 
-$media = ($primeiraNota + $segundaNota) / 2;
+$media = $soma / (count($argv) - 1);
 
-echo "Sua média é: $media";
+echo "Sua média é $media";
