@@ -1,6 +1,6 @@
 # Submissão de Exercicio
 
-**Exercicio:** 0 - Hello World
+**Exercicio:** 1 - Media Alunos
 
 **Nickname:** Cristuker
 
@@ -8,12 +8,13 @@
 
 **Twitter**: https://twitter.com/tukeer01 
 
-**Dificuldade de Resolução:**  Baixa 
+**Dificuldade de Resolução:**  Média 
 
-**Comentários:** Desafio foi bem simples, pois já estava dando um olhada nessa lang, então resolvi adicionar usando função também.
+**Comentários:** Como to começando com a lang quebrei bastante a cabeça pra rodar esse cara e resolver. Pois não fazia ideia de como passar para int. Literalmente to aprendendo enquanto faço os desafios.
+
 **Como rodar o desafio**: 
 
 Use o comando abaixo: 
 ```bash
-elixir helloWorld.ex
+elixir media.ex
 ```
