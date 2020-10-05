@@ -1,2 +1,2 @@
 <?php
-    echo "Hello He4rt Developers";
+    echo 'Hello He4rt Developers';
