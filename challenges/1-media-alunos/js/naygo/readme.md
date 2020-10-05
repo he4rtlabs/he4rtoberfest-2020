@@ -10,8 +10,6 @@
 
 **Dificuldade de Resolução:** - Baixa -
 
-**Comentários:** 
+**Comentários:** Nenhum :D
 
-**Como rodar o desafio**: 
-
-Navegue até a pasta e use o comando abaixo: 
+**Como rodar o desafio**: Entre nesta pasta e use o comando → node media.js

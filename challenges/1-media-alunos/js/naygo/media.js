@@ -1,4 +1,5 @@
 // Input/Args: 22 53
+
 // Output: Média -> 37.5
 
 function calculoMedia(nota1, nota2) {
