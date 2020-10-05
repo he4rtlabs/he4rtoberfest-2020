@@ -6,7 +6,7 @@
 
 **Nível Técnico:** - Junior
 
-**Twitter**: https://twitter.com/mateusmlo_ (opcional)
+**Twitter**: https://twitter.com/mateusmlo_
 
 **Dificuldade de Resolução:** - Baixa
 
