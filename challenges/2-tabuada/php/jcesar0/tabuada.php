@@ -1,10 +1,11 @@
 <?php
-$numeroTabuada = $argv[1];
-$limiteTabuada = $argv[2];
+$quantidadeTabuada = $argv[1];
 
-echo "A tabuada do número {$numeroTabuada} é:\n";
-for ($i = 1; $i <= $limiteTabuada; $i++) 
+for ($i = 1; $i <= $quantidadeTabuada; $i++) 
 {
-    $resultado = $limiteTabuada * $i;
-    echo "{$numeroTabuada}x{$i} = {$resultado}\n";
+    echo "A tabuada do número {$i} é:\n";
+    for ($j = 1; $j <= 10; $j++) {   
+        $resultado = $i * $j;
+        echo "{$i}x{$j} = {$resultado}\n";
+    }
 }
