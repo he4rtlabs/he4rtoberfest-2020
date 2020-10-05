@@ -1,6 +1,6 @@
 # Submissão de Exercicio
 
-**Exercicio:** 0 - Hello World
+**Exercicio:** 1-media-alunos
 
 **Nickname:** evertoont
 
@@ -10,7 +10,7 @@
 
 **Dificuldade de Resolução:** - Baixa
 
-**Comentários:** Desafio bem tranquilo
+**Comentários:** Desafio bem tranquilo!
 
 **Como rodar o desafio**: 
 
