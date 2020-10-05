@@ -4,7 +4,7 @@
 
 **Nickname:** NicolasPereiraDev
 
-**Nível Técnico:** - Estudante/Estagiário/Junior/Pleno/Senior -
+**Nível Técnico:** Júnior
 
 **Twitter**: https://twitter.com/nrpb_
 
