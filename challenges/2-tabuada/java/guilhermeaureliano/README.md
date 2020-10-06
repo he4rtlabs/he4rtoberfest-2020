@@ -6,11 +6,11 @@
 
 **Nível Técnico:** - Estudante -
 
-**Twitter**: --
+**Twitter**: Não tenho.
 
 **Dificuldade de Resolução:** - Baixa -
 
-**Comentários:** --
+**Comentários:** Desafio legal para treinar lógica de programação.
 
 **Como rodar o desafio**: 
 
