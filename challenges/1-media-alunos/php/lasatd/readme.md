@@ -1,6 +1,6 @@
 # Submissão de Exercicio
 
-**Exercicio:** 6 - Abracadabra
+**Exercicio:** 1 - Média Alunos
 
 **Nickname:** lasatd
 
@@ -16,5 +16,5 @@
 
 Use o comando abaixo: 
 ```bash
-php abracadabra.php argv1
+php media.php argv1 argv2 argv3....
 ```
