@@ -1,12 +1,16 @@
 # Submissão de Exercicio
 
-**Exercicio:** 3-area-trapezio
+**Exercicio:** 3-Area-trapezio
 
 **Nickname:** Waaz
 
 **Nível Técnico:** - Estudante
 
+**Twitter**: 
+
 **Dificuldade de Resolução:** - Baixa
+
+**Comentários:** N
 
 **Como rodar o desafio**: 
 
