@@ -1,8 +1,8 @@
 # Submissão de Exercicio
 
-**Exercicio:** 0 - Hello World
+**Exercicio:** 1 - Média de alunos
 
-**Nickname:** danielhe4rt
+**Nickname:** guilhermeaureliano
 
 **Nível Técnico:** - Estudante -
 
