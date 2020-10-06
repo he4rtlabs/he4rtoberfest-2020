@@ -1,6 +1,8 @@
 // Input/Args: 2
 // Output: tabuada até o número inserido
 
+const prompt = require('prompt-sync')();
+
 function Tabuada(numero) {
 
     console.log('===========================')
@@ -16,4 +18,6 @@ function Tabuada(numero) {
 
 }
 
-Tabuada(2)
+let number = prompt('Digite um numero: ');
+Tabuada(number)
+
