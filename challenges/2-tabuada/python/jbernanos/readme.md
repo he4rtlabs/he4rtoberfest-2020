@@ -1,20 +1,16 @@
 # Submissão de Exercicio
 
-**Exercicio:** 0 - Hello World
+**Exercicio:** 2 - Tabuada
 
 **Nickname:** JBernanos
 
 **Nível Técnico:** Estudante
 
-**Twitter**: 
-
-**Dificuldade de Resolução:** Baixa
-
-**Comentários:** 
+**Dificuldade de Resolução:** Baixa 
 
 **Como rodar o desafio**: 
 
 Use o comando abaixo: 
 ```bash
-python hello.py
+python tabuada.py
 ```
