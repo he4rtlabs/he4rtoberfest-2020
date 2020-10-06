@@ -5,7 +5,7 @@ import "fmt"
 func getNumbers() []float64 {
 	var notas []float64
 	var n float64
-	fmt.Print("Entre suas notas (caso não queira mais inserir notas, aperte enter)\n")
+	fmt.Print("Entre com suas notas (caso não queira mais inserir notas, aperte enter)\n")
 	for i := 1; true; i++ {
 		fmt.Printf("Nota %d: ", i)
 		_, err := fmt.Scanf("%f", &n)
