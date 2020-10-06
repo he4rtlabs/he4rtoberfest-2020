@@ -11,9 +11,9 @@
 
 **Como rodar o desafio**: Primeiramente é necessario que tenha o Node instalado em sua máquina.
 
-Tambem será necessario instalar uma biblioteca do Node para receber um input via terminal, com o seguinte comando(necessario ter o npm instalo também): 'npm install prompt-sync'.
+Tambem será necessario instalar uma biblioteca do Node para receber um input via terminal, com o seguinte comando(necessario ter o npm instalado também): 'npm install prompt-sync'.
 
 Use o comando abaixo: 
 ```bash
-    trapezioArea .js 
+   node trapezioArea .js 
 ```
