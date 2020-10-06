@@ -1,21 +1,19 @@
 # Submissão de Exercicio
 
-**Exercicio:** 0 - Hello World
+**Exercicio:** 1 - Média de alunos
 
 **Nickname:** AkiraTorres
 
 **Nível Técnico:** - Estudante -
 
-**Twitter**: https://twitter.com/akiratorres_
+**Twitter**: https://twitter.com/akiratorres
 
 **Dificuldade de Resolução:** - Baixa -
-
-**Comentários:**
 
 **Como rodar o desafio**:
 
 Use o comando abaixo:
 
 ```bash
-node hello.js
+js average.js
 ```
