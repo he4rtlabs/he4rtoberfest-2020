@@ -1,12 +1,12 @@
 # Submissão de Exercicio
 
-**Exercicio:** 2 -Tabuada
+**Exercicio:** 3 - Area-trapezio
 
 **Nickname:** Waaz
 
 **Nível Técnico:** - Estudante
 
-**Twitter**: 
+**Twitter**: https://twitter.com/jvvitox 
 
 **Dificuldade de Resolução:** - Baixa
 
@@ -16,5 +16,5 @@
 
 Use o comando abaixo: 
 ```bash
-node tabuada.js 
+java Trapezio.java
 ```
