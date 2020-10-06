@@ -1,6 +1,6 @@
 # Submissão de Exercicio
 
-**Exercicio:** 0 - Hello World
+**Exercicio:** 6 - Abracadabra
 
 **Nickname:** lasatd
 
@@ -16,5 +16,5 @@
 
 Use o comando abaixo: 
 ```bash
-php helloworld.php
+php abracadabra.php argv1
 ```
