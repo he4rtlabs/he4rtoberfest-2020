@@ -1,6 +1,6 @@
 # Submissão de Exercicio
 
-**Exercicio:** 2 - Tabuada
+**Exercicio:** 8 - Fibonacci
 
 **Nickname:** lasatd
 
@@ -16,5 +16,5 @@
 
 Use o comando abaixo: 
 ```bash
-php tabuada.php
+php fibonacci.php argv1
 ```
