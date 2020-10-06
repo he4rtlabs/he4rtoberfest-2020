@@ -8,9 +8,9 @@
 
 **Twitter**: https://twitter.com/Apenas_Kev
 
-**Dificuldade de Resolução:** - Baixa
+**Dificuldade de Resolução:** - Media
 
-**Comentários:** acredito que consigo melhorar o codigo mas teria que aprender loop antes
+**Comentários:** consegui completar o desafio a mais que me foi passado, mesmo com dificuldade em encontrar uma forma de fazer funcionar
 
 **Como rodar o desafio**: 
 
