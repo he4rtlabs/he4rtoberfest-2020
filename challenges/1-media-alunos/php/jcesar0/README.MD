@@ -16,5 +16,5 @@
 
 Use o comando abaixo: 
 ```bash
-php helloworld.php argv1 argv2
+php helloworld.php argv..
 ```
