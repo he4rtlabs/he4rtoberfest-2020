@@ -14,5 +14,5 @@
 
 Use o comando abaixo: 
 ```bash
-node index.js
+node index.js 10 20 30 40
 ```
