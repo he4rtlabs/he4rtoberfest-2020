@@ -6,6 +6,7 @@ function traparea(baseMaior, baseMenor, altura) {
             return console.log(`${testCase} Não é um numero, por favor use apenas numeros!`);
         }
     } 
+    
     const areaValue = ((baseMaior + baseMenor) * altura) / 2;
     if(isNaN(areaValue)){
         return console.log('Ocorreu um erro, por favor digite apenas numeros!');
