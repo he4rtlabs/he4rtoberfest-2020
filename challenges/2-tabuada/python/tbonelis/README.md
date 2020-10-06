@@ -2,7 +2,7 @@
 
 **Exercicio:** 2 - Tabuada
 
-**Nickname:** tbonelisgit 
+**Nickname:** tbonelis 
 
 **Nível Técnico:** - Estudante
 
