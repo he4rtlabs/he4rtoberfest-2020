@@ -17,5 +17,5 @@
 Use o comando abaixo:
 
 ```bash
-node helloworld.js
+python tabuada.py
 ```
