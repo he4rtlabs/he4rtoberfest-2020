@@ -1,7 +1,7 @@
 <?php
 if (sizeof($argv) < 4)
 {
-    echo "FALTAM ARGUMENTOS";
+    echo 'FALTAM ARGUMENTOS';
     exit(); 
 }
 
@@ -12,7 +12,7 @@ $altura = $argv[3];
 
 if (!is_numeric($baseMaior) OR !is_numeric($baseMenor) OR !is_numeric($altura))
 {
-    echo "INSERA 3 NÚMEROS POR FAVOR";
+    echo 'INSIRA 3 NÚMEROS POR FAVOR';
     exit();
 }
 
