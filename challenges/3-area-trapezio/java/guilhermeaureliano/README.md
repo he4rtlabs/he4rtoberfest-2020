@@ -5,11 +5,11 @@
 
 **Nível Técnico:** - Estudante -
 
-**Twitter**: --
+**Twitter**: Não tenho.
 
 **Dificuldade de Resolução:** - Baixa -
 
-**Comentários:** --
+**Comentários:** Bom desafio para quem está começando em qualquer linguagem de programação.
 
 **Como rodar o desafio**: 
 
