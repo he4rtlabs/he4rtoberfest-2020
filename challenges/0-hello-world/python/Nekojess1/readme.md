@@ -4,11 +4,9 @@
 
 **Nickname:** nekojess1
 
-**Nível Técnico:** - Estudante/Trainee
+**Nível Técnico:**  Estudante/Trainee
 
-**Twitter**: 
-
-**Dificuldade de Resolução:** - Baixa
+**Dificuldade de Resolução:**  Baixa
 
 **Comentários:** Desafio tranquilo de ser resolvido. 
 
