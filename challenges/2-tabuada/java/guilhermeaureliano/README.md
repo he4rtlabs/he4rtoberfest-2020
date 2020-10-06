@@ -1,8 +1,9 @@
 # Submissão de Exercicio
 
-**Exercicio:** 1 - Média de alunos
+**Exercicio:** 3 - Tabuada
 
 **Nickname:** guilhermeaureliano
+
 **Nível Técnico:** - Estudante -
 
 **Twitter**: --
@@ -13,8 +14,9 @@
 
 **Como rodar o desafio**: 
 
-Use o comando abaixo:
-Considerando que você já esteja dentro do diretório:
+Use o comando abaixo: 
 
-javac MediaAluno.java (compilar o código)
-java MediaAluno (executar o código)
+Supondo que você já esteja dentro do diretório:
+
+javac Tabuada.java (compilar o código)
+java Tabuada (executar o código)
