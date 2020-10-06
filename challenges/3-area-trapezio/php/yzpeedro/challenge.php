@@ -9,7 +9,7 @@
 	if (!is_numeric($bMaior) || !is_numeric($bMenor) || !is_numeric($altura)) {
 
 		//retorna relatório de erro
-	    echo PHP_EOL . 'Por favor, insira um valor numérico válido' . PHP_EOL;
+	    echo PHP_EOL . 'Por favor, insira um valor numérico válido!' . PHP_EOL;
 	    return false;
 
 	}else{
