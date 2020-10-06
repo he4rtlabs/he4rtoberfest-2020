@@ -6,8 +6,6 @@
 
 **Nível Técnico:** - Estudante
 
-**Twitter**: none
-
 **Dificuldade de Resolução:** - Baixa
 
 **Como rodar o desafio**: 
