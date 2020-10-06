@@ -6,13 +6,9 @@
 
 **Nível Técnico:** - Estagiário
 
-**Twitter**:
-
 **Dificuldade de Resolução:** - Baixa
-
-**Comentários:** 
 
 **Como rodar o desafio**: 
 
-Use o comando abaixo: 
-node areaTrapezio.js
+Use o comando abaixo passando no lugar de "[]" os seus respectivos valores: 
+node areaTrapezio.js [largerBase] [smallerBase] [height]
