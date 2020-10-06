@@ -1,6 +1,6 @@
 # Submissão de Exercicio
 
-**Exercicio:** 0 - Hello World
+**Exercicio:** 3 - Área de um trapézio
 
 **Nickname:** rafaelmendes1
 
@@ -16,9 +16,9 @@
 
 Para executar esse projeto rode esse comando no terminal para compilar esse arquivo:
 
-javac HelloWorld.java
+javac TrapezioCalcArea.java
 
 E depois rode essse comando para executar:
 
-java HelloWorld
+java TrapezioCalcArea
 ```
