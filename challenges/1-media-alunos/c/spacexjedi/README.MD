@@ -10,8 +10,6 @@
 
 **Dificuldade de Resolução:** - Baixa
 
-**Comentários:** Nesse desafio eu achei que ... (Opcional)
-
 **Como rodar o desafio**: 
 
 Use o comando abaixo: 
