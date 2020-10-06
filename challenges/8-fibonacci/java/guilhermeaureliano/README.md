@@ -6,11 +6,7 @@
 
 **Nível Técnico:** - Estudante -
 
-**Twitter**: Não tenho
-
 **Dificuldade de Resolução:** - Média -
-
-**Comentários:** Desafio bem legal pois nos força a pensar como o um for funciona.
 
 **Como rodar o desafio**: 
 
