@@ -1,6 +1,6 @@
 # Submissão de Exercicio
 
-**Exercicio:** 2 - Tabuada
+**Exercicio:** 3 - area de um trapezio
 
 **Nickname:** xsadia
 
@@ -10,11 +10,11 @@
 
 **Dificuldade de Resolução:** - Baixa -
 
-**Comentários:** :monkey: 
+**Comentários:** trapezio :monkey:
 
 **Como rodar o desafio**: 
 
 Use o comando abaixo: 
-cd .\challenges\2-tabuada\java\xsadia> <br />
-compile com javac Tabuada.java <br />
-rode com java Tabuada<br />
+cd .\challenges\3-area-trapezio\java\xsadia> <br />
+compile com: javac AreaTrapezio.java <br />
+rode com: java AreaTrapezio <br />
