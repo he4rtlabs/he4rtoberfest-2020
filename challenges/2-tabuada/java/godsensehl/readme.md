@@ -19,5 +19,5 @@ cd  he4rtoberfest-2020/challenges/2/java/godsensehl
 
 javac Tabuada.java   (compila)
 
-java Tabuada         (execulta)
+java Tabuada         (executa)
 ```
