@@ -1,6 +1,6 @@
 # Submissão de Exercicio
 
-**Exercicio:** 3 - Trapézio
+**Exercicio:** 3-Area-trapezio
 
 **Nickname:** Waaz
 
@@ -10,7 +10,7 @@
 
 **Dificuldade de Resolução:** - Baixa
 
-**Comentários:** 
+**Comentários:** N
 
 **Como rodar o desafio**: 
 
