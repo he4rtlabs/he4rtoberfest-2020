@@ -4,11 +4,11 @@
 
 **Nickname:** darktechlc
 
-**Nível Técnico:** - Estudante
+**Nível Técnico:** Estudante
 
-**Dificuldade de Resolução:** - Baixa
+**Dificuldade de Resolução:** Baixa
 
-**Comentários:** Nesse desafio, criei uma função `media` que, passados números como argumentos, retorna a média aritmética entre eles.
+**Comentários:** Nesse desafio, criei uma função `mediaAritmetica` que, passados números como argumentos, retorna a média aritmética entre eles.
 
 **Como rodar o desafio**: 
 
@@ -17,6 +17,6 @@ Use o comando abaixo:
 # Na raiz da pasta do projeto, navegue até o diretório da resolução:
 cd challenges/1-media-alunos/js/darktechlc/
 
-# Então, execute o arquivo com:
-node media.js
+# Então, execute o arquivo passando as notas como argumento:
+node media.js 22 53
 ```

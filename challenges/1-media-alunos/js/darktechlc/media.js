@@ -1,7 +1,18 @@
-const somaDuasNotas = (nota1, nota2) => +nota1 + nota2;
+const listaDeArgumentos = process.argv.slice(2).map(arg => +arg);
 
-const mediaAritmetica = (...args) => args.reduce(somaDuasNotas, 0) / args.length;
+if(listaDeArgumentos.length === 0)
+  return console.log('Nenhuma valor passado como argumento.');
 
-const mediaNotas = mediaAritmetica(22, 53);
+if (listaDeArgumentos.some(arg => isNaN(arg)))
+  return console.log('Há elementos que não são números.');
 
-console.log(mediaNotas);
+const mediaAritmetica = (lista) => {
+  const somaTotal = lista
+    .reduce((acumulador, itemAtual) => acumulador + itemAtual);
+
+  return somaTotal / lista.length;
+}
+
+const mediaDasNotas = mediaAritmetica(listaDeArgumentos);
+
+console.log(mediaDasNotas);
