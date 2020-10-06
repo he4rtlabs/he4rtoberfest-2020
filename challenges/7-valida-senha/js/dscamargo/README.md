@@ -14,5 +14,5 @@
 
 Use o comando abaixo: 
 ```bash
-node index.js minha-senha
+node index.js myPassword
 ```
