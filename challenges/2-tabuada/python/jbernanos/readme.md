@@ -1,20 +1,16 @@
 # Submissão de Exercicio
 
-**Exercicio:** 1 - Média de Alunos
+**Exercicio:** 2 - Tabuada
 
 **Nickname:** JBernanos
 
 **Nível Técnico:** Estudante
 
-**Twitter**: 
-
-**Dificuldade de Resolução:** Baixa
-
-**Comentários:** 
+**Dificuldade de Resolução:** Baixa 
 
 **Como rodar o desafio**: 
 
 Use o comando abaixo: 
 ```bash
-python media.py
+python tabuada.py
 ```
