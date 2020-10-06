@@ -22,4 +22,3 @@ E depois rode essse comando para executar:
 
 java TrapezioCalcArea
 ```
-
