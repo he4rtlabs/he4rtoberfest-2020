@@ -1,7 +1,7 @@
 casos_testes = int(input("Digite a quantidade de casos de testes: "))
 
 for teste in range(casos_testes):
-    palavra = input("Digite a palavra: ").lower()
+    palavra = input("Digite uma frase: ").lower()
 
     caracteres = {}
 
