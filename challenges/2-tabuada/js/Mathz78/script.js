@@ -8,8 +8,6 @@
  * Made with 💜 by Matheus Rocha.
  */
 
-var number = 0;
-
 function printTabuada(number) {
     // Primeiro FOR para printar todas as tabuadas comçando de 01 até o número informado pelo usuário.
     for(let i = 1; i <= number; i++) {
