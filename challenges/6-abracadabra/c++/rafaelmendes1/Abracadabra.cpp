@@ -6,8 +6,10 @@ int main() {
   string frase;
 
   cin >> frase;
+  
   int numChar = frase.length();
   int espacoLinha;
+  
   while(numChar >= 0){
     for(int i=0; i<=numChar-1; i++){
       cout << frase[i]<< " ";
@@ -21,5 +23,5 @@ int main() {
       cout << " ";
     }
   }
-
 }
+
