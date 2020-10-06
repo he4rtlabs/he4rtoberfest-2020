@@ -1,9 +1,18 @@
+pontos_totais = 0
+divisao = 0
 while True:
     try:
-        media_1 = float(input('insira a primeira nota: '))
-        media_2 = float(input('insira a segunda nota: '))
-        print(f'A media do aluno em um bimestre foi {(media_2 + media_1) / 2 :.1f}')
+        provas = int(input('Qual a quantidade de provas? '))
         break;
     except ValueError:
-        print('Por favor insira apenas numeros')
-        
+        print('Por favor, insira apenas numeros inteiros')
+while True:
+    try:
+        while (provas > 0):
+            pontos_totais = pontos_totais + float(input('Insira uma nota: '))
+            divisao = divisao + 1
+            provas = provas - 1
+        print(f'A média de pontos entre {divisao} provas foi {pontos_totais / divisao :.1f}')
+        break;
+    except ValueError:
+        print('Por favor, insira apenas numeros')
