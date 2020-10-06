@@ -1,15 +1,11 @@
 POZE multiplicationTable(number) {
-  PLAQUINHA "A tabuada do número " + number + " é:"
+  BRASILEIRAO(GOLDOFLAMENGO i = 1; i <= number; i = i + 1) {
+    PLAQUINHA "A tabuada do número " + i + " é:"
 
-  POZE go(x) {
-    PLAQUINHA number + " * " + x + " = " + (x * number)
-    
-    GOL(x < 10){
-      go(x + 1)
+    BRASILEIRAO(GOLDOFLAMENGO j = 1; j <= 10; j = j + 1) {
+       PLAQUINHA i + " * " + j + " = " + (i * j)
     }
   }
-
-  go(1)
 }
 
 multiplicationTable(2)
