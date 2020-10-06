@@ -14,7 +14,7 @@
 
 Use o comando abaixo: 
 ```bash
-javac Media.java
+javac Tabuada.java
 
-java Media
+java Tabuada
 ```
