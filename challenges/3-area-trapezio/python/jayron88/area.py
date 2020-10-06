@@ -1,7 +1,7 @@
 while True:
     try:
-        b_maior = int(input('Digite o comprimeto da base Maior: '))
-        b_menor = int(input('Digite o comprimeto da base Menor:'))
+        b_maior = int(input('Digite o comprimento da base Maior: '))
+        b_menor = int(input('Digite o comprimento da base Menor:'))
         altura = int(input('Digite a altura: '))
     except (ValueError, TypeError):
         print('Digite apenas números!')
