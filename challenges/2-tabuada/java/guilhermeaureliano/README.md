@@ -6,8 +6,6 @@
 
 **Nível Técnico:** - Estudante -
 
-**Twitter**: Não tenho.
-
 **Dificuldade de Resolução:** - Baixa -
 
 **Comentários:** Desafio legal para treinar lógica de programação.
