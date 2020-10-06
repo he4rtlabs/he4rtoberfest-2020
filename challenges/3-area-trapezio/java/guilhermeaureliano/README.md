@@ -5,8 +5,6 @@
 
 **Nível Técnico:** - Estudante -
 
-**Twitter**: Não tenho.
-
 **Dificuldade de Resolução:** - Baixa -
 
 **Comentários:** Bom desafio para quem está começando em qualquer linguagem de programação.
