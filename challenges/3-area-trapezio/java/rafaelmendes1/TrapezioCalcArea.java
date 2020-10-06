@@ -13,7 +13,5 @@ public class TrapezioCalcArea {
 		System.out.println("A área do trapézio é: "+ (baseMaior + baseMenor)*altura/2);
 		
 		sc.close();
-
 	}
-
 }
