@@ -15,5 +15,5 @@ Tambem será necessario instalar uma biblioteca do Node para receber um input vi
 
 Use o comando abaixo: 
 ```bash
-   node trapezioArea .js 
+   node trapezioArea.js 
 ```
