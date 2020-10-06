@@ -1,0 +1,13 @@
+name: "Config PR"
+on:
+  - pull_request_target
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: "Set labels on PR"
+        uses: actions/labeler@main
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}

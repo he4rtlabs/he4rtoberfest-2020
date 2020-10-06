@@ -73,6 +73,27 @@ Como o nosso objetivo será dar a melhor experiência possível para o participa
 
 Qualquer dúvida, poderá ir o nosso [banco de dúvidas](https://github.com/he4rtlabs/he4rtoberfest-2020/issues/1) e perguntar.
 
+## Atualizando o seu fork
+
+Caso esse repositório seja atualizado com novos exercícios você precisa atualizar seu fork
+
+```bash
+# 1. Mudar para a branch master
+git checkout master
+# 2. Checar se sua cópia local tem o link do original
+git remote -v
+# 3. Se não, adicione o link do original
+git remote add upstream git@github.com:he4rtlabs/he4rtoberfest-2020.git
+# 4. Confirme se o link foi adicionado
+git remote -v
+# 5. Agora você pode fazer o fetch com o repo original, assumindo que o nome do link é 'upstream'
+git fetch upstream
+# 6. Fazer merge dos updates para sua branch master
+git merge upstream/master master
+# 7. Realizar o push para seu fork com as novas mudanças 
+git push origin master
+```
+
 ## Materiais complementares
 
 - [**Git4Noobs**](https://github.com/danielhe4rt/git4noobs)
