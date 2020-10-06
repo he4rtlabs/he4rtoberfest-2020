@@ -1,6 +1,6 @@
 # Submissão de Exercicio
 
-**Exercicio:** 1 - Área de um trapézio
+**Exercicio:** 3 - Área de um trapézio
 
 **Nickname:** JBernanos
 
