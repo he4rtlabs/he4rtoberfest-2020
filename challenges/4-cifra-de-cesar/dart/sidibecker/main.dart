@@ -1,5 +1,6 @@
 import 'dart:io';
-import 'alfabeto.dart';
+
+final List ALFABETO = getAllLetters();
 
 void main() {
   print("\n");
@@ -64,6 +65,20 @@ List stringtoArray(String text) {
  */
 String arrayToString(List array) {
   return array.join('');
+}
+
+List getAllLetters() {
+  int c = "a".codeUnitAt(0);
+  int endChar = "z".codeUnitAt(0);
+
+  List list = [];
+
+  while (c <= endChar) {
+    list.add(String.fromCharCode(c).toUpperCase());
+    c++;
+  }
+
+  return list;
 }
 
 String getInputValue(String title) {
