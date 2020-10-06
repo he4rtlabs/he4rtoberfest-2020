@@ -12,7 +12,7 @@
 
 **Comentários:** Estou aprendendo muito este lado de branchs do git que antes eu nem conhecia, obrigada!
 
-**Como rodar o desafio**: Entre na nesta pasta e use o comando abaixo:
+**Como rodar o desafio**: Primeiro instale o prompt-sync com 'npm install', em seguida entre na nesta pasta e use o comando abaixo:
 ```bash
 node tabuada.js
 ```

@@ -15,7 +15,6 @@ function Tabuada(numero) {
         }
         console.log('===========================')
     }
-
 }
 
 let number = prompt('Digite um numero: ');
