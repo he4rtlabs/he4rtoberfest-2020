@@ -9,7 +9,7 @@ void main() {
 
   validateNumber(numero);
 
-  finalList.removeAt(finalList.length - 1);
+  finalList.removeLast();
 
   print("\n");
 
