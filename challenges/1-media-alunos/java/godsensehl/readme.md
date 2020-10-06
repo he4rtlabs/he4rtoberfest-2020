@@ -19,5 +19,5 @@ cd  he4rtoberfest-2021/challenges/1/java/godsensehl
 
 javac Media.java   (compila)
 
-java Media        (execulta)
+java Media         (executa)
 ```
