@@ -1,6 +1,6 @@
 # Submissão de Exercicio
 
-**Exercicio:** 0 - Média de Alunos
+**Exercicio:** 1 - Média de Alunos
 
 **Nickname:** JBernanos
 
