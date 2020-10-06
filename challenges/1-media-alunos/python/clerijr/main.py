@@ -1,4 +1,4 @@
-
+# -*- coding: utf-8 -*-
 def main():
     primeiraNota = float(input("Fala meu bom! De 0 a 10, qual foi sua primeira nota? "))
     segundaNota = float(input("E qual foi a segunda? "))
