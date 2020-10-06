@@ -12,10 +12,9 @@
 
 **Comentários:** Nesse desafio eu achei que ... (Opcional)
 
-**Como rodar o desafio**:
+**Como rodar o desafio**: 
 
-Use o comando abaixo:
-
+Use o comando abaixo: 
 ```bash
 php helloworld.php argv1 argv2 argv3
 ```
