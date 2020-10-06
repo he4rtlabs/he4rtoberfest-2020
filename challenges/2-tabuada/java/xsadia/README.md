@@ -1,6 +1,6 @@
 # Submissão de Exercicio
 
-**Exercicio:** 1 - Media Alunos
+**Exercicio:** 2 - Tabuada
 
 **Nickname:** xsadia
 
@@ -10,11 +10,11 @@
 
 **Dificuldade de Resolução:** - Baixa -
 
-**Comentários:** minha primeira vez mexendo com java 
+**Comentários:** :monkey: 
 
 **Como rodar o desafio**: 
 
 Use o comando abaixo: 
-cd .\challenges\1-media-alunos\java\xsadia> <br />
-compile com javac MediaAlunos.java <br />
-rode com java MediaAlunos <br />
+cd .\challenges\2-tabuada\java\xsadia> <br />
+compile com javac Tabuada.java <br />
+rode com java Tabuada<br />
