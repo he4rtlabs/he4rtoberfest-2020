@@ -8,9 +8,9 @@
 
 **Twitter**: https://twitter.com/zuruckt
 
-**Dificuldade de Resolução:** - Média
+**Dificuldade de Resolução:** - DÍFICIL
 
-**Comentários:** Safe
+**Comentários:** nao tenho oq dizer apenas sentir
 
 **Como rodar o desafio**: 
 
