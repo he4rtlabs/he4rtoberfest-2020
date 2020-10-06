@@ -12,6 +12,7 @@ func tabuada(n int) {
 
 func main() {
 	var numInput int
+	fmt.Print("Entre com um número para cálculo de tabuada: ")
 	fmt.Scanf("%d", &numInput)
 	for i := 1; i <= numInput; i++ {
 		tabuada(i)
