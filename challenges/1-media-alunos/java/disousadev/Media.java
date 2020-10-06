@@ -6,13 +6,21 @@ public class Media {
 
     Scanner scan = new Scanner(System.in);
 
-    double nota1 = scan.nextDouble();
-    double nota2 = scan.nextDouble();
+    try {
+      while (scan.hasNext()) {
 
-    double media = (nota1 + nota2) / 2;
+        double nota1 = scan.nextDouble();
+        double nota2 = scan.nextDouble();
 
-    System.out.println("Média -> " + media);
+        double media = (nota1 + nota2) / 2;
 
+        System.out.println("Média -> " + media);
+      }
+    } catch (InputMismatchException e) {
+      System.out.println("Valor inválido, digite somente números.");
+    }
+
+    scan.close();
   }
 
 }
