@@ -14,5 +14,6 @@
 
 Use o comando abaixo: 
 ```bash
-node index.js
+node index.js {baseMaior} {baseMenor} {altura}
+node index 10 10 10
 ```
