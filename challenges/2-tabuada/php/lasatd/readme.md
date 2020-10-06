@@ -2,19 +2,19 @@
 
 **Exercicio:** 2 - Tabuada
 
-**Nickname:** godinhojoao
+**Nickname:** lasatd
 
 **Nível Técnico:** - Estudante -
 
-**Twitter**: https://twitter.com/godin_joaoo
+**Twitter:** None
 
 **Dificuldade de Resolução:** - Baixa -
 
-**Comentários:** dale dale dale
+**Comentários:** None
 
-**Como rodar o desafio**: 
+**Como rodar o desafio:** 
 
 Use o comando abaixo: 
 ```bash
-node tabuada.js
+php tabuada.php
 ```
