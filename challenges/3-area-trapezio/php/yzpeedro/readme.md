@@ -10,7 +10,7 @@
 
 **Dificuldade de Resolução:** - Baixa
 
-**Comentários:** Penei um pouco pra pegar o jeito de usar php no terminal, mas vamo que vamo.
+**Comentários:** Penei um pouco pra pegar o jeito de usar php no terminal, mas vamo que vamo!
 
 **Como rodar o desafio**: 
 
