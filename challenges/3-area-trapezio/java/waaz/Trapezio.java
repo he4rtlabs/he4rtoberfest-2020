@@ -22,7 +22,7 @@ public class Trapezio {
 				System.out.println("Altura");
 				altura = sc.nextDouble();
 			}else {
-				System.out.println("Valor invlálido!. A aplicação só aceitará números. Tente novamente!! ");
+				System.out.println("Valor invalido!. A aplicacoo so aceitara numeros. Tente novamente!! ");
 			}		
 			
 			

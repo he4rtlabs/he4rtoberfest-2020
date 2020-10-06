@@ -1,12 +1,12 @@
 # Submissão de Exercicio
 
-**Exercicio:** 3 - Area-trapezio
+**Exercicio:** 3 - Trapézio
 
 **Nickname:** Waaz
 
 **Nível Técnico:** - Estudante
 
-**Twitter**: https://twitter.com/jvvitox 
+**Twitter**: 
 
 **Dificuldade de Resolução:** - Baixa
 
