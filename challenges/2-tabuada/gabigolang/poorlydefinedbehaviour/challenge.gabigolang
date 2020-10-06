@@ -9,7 +9,7 @@ POZE multiplicationTable(number) {
     }
   }
 
-  go(0)
+  go(1)
 }
 
 multiplicationTable(2)
