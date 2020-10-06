@@ -1,6 +1,6 @@
 # Submissão de Exercicio
 
-**Exercicio:** 3 - Área de um trapézio
+**Exercicio:** 8 - Fibonacci Fácil
 
 **Nickname:** rafaelmendes1
 
@@ -8,7 +8,7 @@
 
 **Twitter**: https://twitter.com/rafael_mds1
 
-**Dificuldade de Resolução:** Baixa
+**Dificuldade de Resolução:** Média
 
 **Como rodar o desafio**:
 
@@ -16,9 +16,9 @@
 
 Para executar esse projeto rode esse comando no terminal para compilar esse arquivo:
 
-javac TrapezioCalcArea.java
+g++ Fibonacci.cpp
 
 E depois rode essse comando para executar:
 
-java TrapezioCalcArea
+./a.out
 ```
