@@ -2,16 +2,33 @@ package main
 
 import "fmt"
 
+func getNumbers() []float64 {
+	var notas []float64
+	var n float64
+	fmt.Print("Entre suas notas (caso não queira mais inserir notas, aperte enter)\n")
+	for i := 1; true; i++ {
+		fmt.Printf("Nota %d: ", i)
+		_, err := fmt.Scanf("%f", &n)
+		if err != nil {
+			break
+		}
+		notas = append(notas, n)
+	}
+	return notas
+}
+
+func avg(notas []float64) float64 {
+	soma := 0.
+	for _, n := range notas {
+		soma += n
+	}
+	return soma / float64(len(notas))
+}
+
 func main() {
-	var n1, n2 float64
+	notas := getNumbers()
+	media := avg(notas)
 
-	fmt.Print("Entre com a primeira nota: ")
-	fmt.Scanf("%f", &n1)
+	fmt.Printf("Media -> %.2f\n", media)
 
-	fmt.Print("Entre com a segunda nota: ")
-	fmt.Scanf("%f", &n2)
-
-	media := (n1 + n2) / 2.
-
-	fmt.Printf("Média -> %.2f\n", media)
 }
