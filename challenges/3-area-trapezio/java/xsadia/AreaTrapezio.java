@@ -27,7 +27,7 @@ public class AreaTrapezio {
         System.out.print("Base menor: ");
 
         if (!input2.hasNextFloat()){
-            System.out.println("Base maior tem que ser um numero");
+            System.out.println("Base menor tem que ser um numero");
             System.exit(1);
         }
 
@@ -37,7 +37,7 @@ public class AreaTrapezio {
         System.out.print("Altura: ");
 
         if (!input3.hasNextFloat()){
-            System.out.println("Base maior tem que ser um numero");
+            System.out.println("Base altura tem que ser um numero");
             System.exit(1);
         }
 
