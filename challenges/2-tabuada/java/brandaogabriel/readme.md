@@ -2,7 +2,7 @@
 
 **Exercicio:** 2 - Tabuada
 
-**Nickname:** DiSousaDev
+**Nickname:** brandaogabriel
 
 **Nível Técnico:** Junior
 
