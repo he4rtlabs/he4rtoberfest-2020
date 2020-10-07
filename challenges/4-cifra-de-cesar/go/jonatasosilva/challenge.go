@@ -29,6 +29,8 @@ func main() {
 		fmt.Print("Número de posições: ")
 		fmt.Scanf("%d", &np)
 
+		msg = strings.ToUpper(msg)
+
 		entradas = append(entradas, entrada{mensagem: msg, numeroPosicoes: np})
 	}
 
