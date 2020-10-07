@@ -3,6 +3,10 @@ import sys
 # Lê o número inteiro
 inteiro_N = int(sys.argv[1])
 
+if inteiro_N <= 0 or inteiro_N >= 46:
+    print("O número deve ser maior que 0 e menor que 46")
+    exit()
+
 # inicializa as variáveis de controle e a string de saída
 ultimo_numero = 1
 numero = 1
