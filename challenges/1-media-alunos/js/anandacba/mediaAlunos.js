@@ -1,4 +1,3 @@
-
 //Pode enviar diversos valores para argumento
 function calcAverage(inputNumber){
 	//validação do tipo
