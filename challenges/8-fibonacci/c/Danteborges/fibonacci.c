@@ -1,25 +1,37 @@
 #include <stdio.h>
-int main()
+
+int main ()
 {
-    int x,y, a=0,b=1,c=0;
-    scanf("%d", &x);
-    for(y=1; y<x; y++)
-    {
-        if(y%2==1)
-        {
-            printf("%d ",c);
-            c=a+b;
-            a=c;
-        }
-        else if(y==2)
-            printf("%d ",c);
-        else if(y%2==0)
-        {
-            printf("%d ",c);
-            c=a+b;
-            b=c;
-        }
-    }
-    printf("%d\n",c);
+
+int n, i, a = 0, b = 1, c = 0;
+scanf("%d", &n);
+if(n>= 46)
+{
+    printf("valor nao aceito\n");
     return 0;
+}
+
+if (n == 0 || n == 1)
+{
+
+  printf("%d", a);
+  return 0;
+
+}
+
+printf("%d ", a);
+for (i = 2; i < n; i++)
+{
+
+    a = b;
+    b = c;
+    c = a + b;
+    printf("%d ", c);
+
+}
+
+printf("%d\n", c+b);
+
+return 0;
+
 }
