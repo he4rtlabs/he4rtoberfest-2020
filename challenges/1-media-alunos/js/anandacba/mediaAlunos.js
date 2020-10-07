@@ -1,5 +1,5 @@
 
-//Pode ser passado diversos valores para argumento
+//Pode enviar diversos valores para argumento
 function calcAverage(inputNumber){
 	//validação do tipo
 	for (let verifyIn of arguments) {
