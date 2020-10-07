@@ -6,7 +6,7 @@
 
 **Nível Técnico:** - Estudante
 
-**Dificuldade de Resolução:** - Baixa
+**Dificuldade de Resolução:** - Médio
 
 **Como rodar o desafio**: 
 
