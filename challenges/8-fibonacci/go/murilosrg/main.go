@@ -3,17 +3,18 @@ package main
 import (
 	"fmt"
 	"strconv"
+	"strings"
 )
 
 func main() {
 	entrada := lerNumero()
-	var resultado string
+	var resultado []string
 
 	for i := 0; i < entrada; i++ {
-		resultado = resultado + strconv.Itoa(fib(i)) + " "
+		resultado = append(resultado, strconv.Itoa(fib(i)))
 	}
 
-	fmt.Println(resultado[:len(resultado)-1])
+	fmt.Println(strings.Join(resultado, " "))
 }
 
 func lerNumero() int {
