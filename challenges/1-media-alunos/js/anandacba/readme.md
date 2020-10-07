@@ -11,6 +11,7 @@
 **Dificuldade de Resolução:** - Baixa -
 
 **Comentários:** 
+
 "O desafio em si é simples, a parte de escrever o mais claro, limpo e
 objetivo possível que acredito ser o desafio."
 

@@ -13,6 +13,5 @@ function calcAverage(firstNumber,secondNumber){
 		console.log("The average of the values is: " + average)
 	};
 };
-
 //Passando os valores para dentro da função
 calcAverage(22, 53);
