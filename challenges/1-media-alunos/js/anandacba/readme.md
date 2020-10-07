@@ -19,5 +19,5 @@ objetivo possível que acredito ser o desafio."
 
 Use o comando abaixo: 
 ```bash
-node mediaAlunos.js argv1 argv2
+node mediaAlunos.js
 ```
