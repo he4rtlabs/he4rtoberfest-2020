@@ -1,6 +1,6 @@
 # Submissão de Exercicio
 
-**Exercicio:** 0 - Hello World
+**Exercicio:** 6 - Abracadabra
 
 **Nickname:** AltheusV
 
@@ -8,7 +8,7 @@
 
 **Twitter**:
 
-**Dificuldade de Resolução:** - Baixa
+**Dificuldade de Resolução:** - Média
 
 **Comentários:**
 
@@ -21,4 +21,4 @@ De forma simples, a JVM traduz o código escrito por humanos para uma linguagem 
 
 Para instalar, pesquise JVM no google ou procure no site oficial da oracle https://www.java.com/pt-BR/ 
 
-Com a JVM instalada em sua máquina, abra o cmd na pasta AltheusV e execute o comando java App.java no cmd.
+Com a JVM instalada em sua máquina, abra o cmd na pasta AltheusV e execute o comando java Abracadabra.java no cmd.
