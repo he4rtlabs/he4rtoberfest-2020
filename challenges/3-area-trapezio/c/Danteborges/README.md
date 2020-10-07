@@ -10,8 +10,6 @@
 
 **Dificuldade de Resolução:** Baixa
 
-**Comentários:**
-
 **Como rodar o desafio**:
 
 Tendo o compilador GCC instalado, use os comandos abaixo:
