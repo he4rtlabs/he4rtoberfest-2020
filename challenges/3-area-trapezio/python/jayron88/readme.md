@@ -1,4 +1,4 @@
-	# Submissão de Exercicio
+# Submissão de Exercicio
 
 Exercicio:3 - Area Trapezio
 
