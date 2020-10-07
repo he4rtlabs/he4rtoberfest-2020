@@ -33,6 +33,7 @@ func main() {
 	fmt.Print("Número de casos: ")
 	fmt.Scanf("%d", &casos)
 	for i := 1; i <= casos; i++ {
-		fmt.Println(decrypt(getTextToDecrypt()))
+		fmt.Println("===================================")
+		fmt.Printf("Decifrado: %s\n", decrypt(getTextToDecrypt()))
 	}
 }
