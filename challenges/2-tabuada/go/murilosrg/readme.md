@@ -4,13 +4,11 @@
 
 **Nickname:** murilosrg
 
-**Nível Técnico:** Medio
+**Nível Técnico:** Pleno
 
-**Twitter**: @murilosrg
+**Twitter**: https://twitter.com/murilosrg
 
 **Dificuldade de Resolução:** Baixa
-
-**Comentários:**
 
 **Como rodar o desafio**:
 
