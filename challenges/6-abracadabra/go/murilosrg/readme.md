@@ -4,9 +4,9 @@
 
 **Nickname:** murilosrg
 
-**Nível Técnico:** Médio
+**Nível Técnico:** Pleno
 
-**Twitter**: murilosrg
+**Twitter**: https://twitter.com/murilosrg
 
 **Dificuldade de Resolução:** Baixa
 
