@@ -6,6 +6,8 @@
 
 **Nível Técnico:** - Estudante/Junior -
 
+**Twitter**: -
+
 **Dificuldade de Resolução:** - Baixa -
 
 **Comentários:** 
@@ -17,5 +19,5 @@ objetivo possível que acredito ser o desafio."
 
 Use o comando abaixo: 
 ```bash
-node mediaAlunos.js
+node mediaAlunos.js argv1 argv2
 ```
