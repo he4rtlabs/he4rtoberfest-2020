@@ -13,7 +13,7 @@ func main() {
 	reader := bufio.NewReader(os.Stdin)
 	text, _ := reader.ReadString('\n')
 
-	valida := validaSenha(text)
+	valida := validaSenha(strings.TrimSpace(text))
 
 	if valida {
 		fmt.Println("Senha valida.")
@@ -35,13 +35,11 @@ func validaSenha(senha string) bool {
 			lowercase = true
 		case unicode.IsSymbol(c):
 			special = true
-		case c == ' ':
+		case unicode.IsSpace(c):
 			whitespace = true
+		case unicode.In(c, unicode.Mn):
+			accent = true
 		}
-	}
-
-	if strings.ContainsAny(senha, "áàäëéèïíìóòöúùüÁÀÄËÉÈÏÍÌÓÒÖÚÙÜ") {
-		accent = true
 	}
 
 	if special || whitespace || accent {
