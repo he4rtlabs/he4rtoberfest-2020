@@ -1,15 +1,16 @@
-Exercicio: 0 - Hello World
+# Submissão de Exercicio
 
-Nickname: GustavoVMO
+**Exercicio:** 0 - Hello World
 
-Nível Técnico: Estudante
+**Nickname:** GustavoVMO
 
-Dificuldade de Resolução: Baixa
+**Nível Técnico:** - Estudante
 
-Comentários: Desafio tranquilo de ser resolvido.
+**Dificuldade de Resolução:** - Baixa
 
-Como rodar o desafio:
+**Como rodar o desafio**: 
 
-Use o comando abaixo:
-
-python HelloWorld.py
+Use o comando abaixo: 
+```bash
+python3 HelloWorld.py
+```
