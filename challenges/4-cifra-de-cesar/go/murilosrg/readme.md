@@ -2,13 +2,11 @@
 
 **Exercicio:** 4 - Cifra de Cesar
 
-**Nickname:** murilosrg
+**Nickname:** https://twitter.com/murilosrg
 
-**Nível Técnico:** - Médio
+**Nível Técnico:** - Pleno
 
 **Dificuldade de Resolução:** - Média
-
-**Comentários:**
 
 **Como rodar o desafio**: Navegue até esta pasta e execute os comandos:
 
