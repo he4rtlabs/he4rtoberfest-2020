@@ -1,44 +1,42 @@
-# inclui  < stdio.h >
-# inclui  < string.h >
-# incluir  < stdbool.h >
-# incluir  < ctype.h >
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <math.h>
 
-void  main ( void )
-{
+#define MAX 200
 
-	 caracteres curtos sem sinalEspeciais = 0 , tam, minuscula = 0 , maiuscula = 0 , tamanho;
-	char senha [ 1000 ];
-	 curto sem sinal i, casos = 10 ;
-
-
-		enquanto ( scanf ( " % [^ \ n ] " , senha)! = EOF)
-		{
+int main(){		
 	
-			tam = strlen (senha);
-			tamanho = verdadeiro ;
-
-			if ( 6 > tam || tam> 32 )
-				tamanho = falso ;
-			
-			para (i = 0 ; i <tam; i ++)
-			{
-				if ( isupper (senha [i])! = 0 )
-					maiuscula ++;
-				else  if ( islower (senha [i])! = 0 )
-					minuscula ++;
-				else  if ((senha [i]> = 32 && senha [i] <= ' / ' ) || senha [i]> 58 && senha [i]> 40 )
-					caracteresEspeciais ++;
+	char senha[MAX];
+	int ruim, t, i, ma, mi, num;
+	
+	while(fgets(senha, MAX, stdin) != NULL){
+		for(i=0; senha[i] >= ' '; i++);
+		senha[i] = '\0';
+		//printf("%s\n", senha);
+		t = strlen(senha);
+		if(t >= 6 && t <= 32){
+			for(i=0, ruim=0, ma=0, mi=0, num; i<t; i++){
+				if(senha[i] >= 'a' && senha[i] <= 'z')
+					mi=1;
+				else 
+					if(senha[i] >= 'A' && senha[i] <= 'Z')
+						ma=1;
+					else
+						if(senha[i] >= '0' && senha[i] <= '9')
+							num=1;
+					else{
+						ruim=1;
+						break;
+					} 
 			}
-
-			if (tamanho == true && maiuscula! = 0 && minuscula! = 0 && caracteresEspeciais == 0 )
-				printf ( " Senha valida. \ n " );
-			outro
-				printf ( " Senha invalida. \ n " );
-
-			mácula = 0 ;
-			minúscula = 0 ;
-			caracteresEspeciais = 0 ;
-			memset (senha, 0 , sizeof (senha));
-
-		}
+			if(ruim || !mi || !ma || !num)
+				printf("Senha invalida.\n");
+			else
+				printf("Senha valida.\n");
+		}else
+			printf("Senha invalida.\n");
+	}
+	
+	return 0;
 }
