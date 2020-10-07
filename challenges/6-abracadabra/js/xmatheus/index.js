@@ -8,8 +8,8 @@ process.argv.forEach(function (value, i, array) {
 function showString(text) {
   console.log("\n");
   for (let i = 1; i < text.length; i++) {
-    let filtredStrin = text.slice(0, -i);
-    filtredStrin = filtredStrin.split("").join(" ");
-    console.log(`${" ".repeat(i)}${filtredStrin}`);
+    let filtredString = text.slice(0, -i);
+    filtredString = filtredString.split("").join(" ");
+    console.log(`${" ".repeat(i)}${filtredString}`);
   }
 }
