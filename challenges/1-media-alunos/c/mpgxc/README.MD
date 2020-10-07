@@ -10,11 +10,11 @@
 
 **Dificuldade de Resolução:** - Baixa
 
-**Como rodar o desafio**: 
+**Como rodar o desafio**:
 
-Use o comando abaixo: 
+Use o comando abaixo:
 
-``` bash
+```bash
 $~ gcc main.c -o main
 $~ ./main 1 2 3 4 5 6 7 8 9 10
 ```
