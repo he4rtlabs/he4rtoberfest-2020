@@ -10,7 +10,7 @@
 
 **Dificuldade de Resolução:** Média
 
-**Gostaria ainda de adicionar:** Um exercício muito bom, que acredito que existam diversas outras formas de realizá-lo. Utilizei uma estrutura de if para dar a impressão de ciclar apenas pelo alfabeto, porém também converterá demais caracteres ascii.
+**Gostaria ainda de adicionar:** Um exercício muito bom, que acredito que existam diversas outras formas de realizá-lo. Utilizei uma estrutura de if para dar a impressão de ciclar apenas pelo alfabeto, porém também converterá demais caracteres ascii. Qualquer sinalização de bugs ou alterações recomendadas são muito bem vindas.
 
 **Como rodar o desafio**: 
 
