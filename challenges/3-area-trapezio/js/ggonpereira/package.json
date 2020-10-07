@@ -1,0 +1,8 @@
+{
+    "name": "areatrapezio",
+    "main": "challenge-03.js",
+    "author": "ggonpereira",
+    "dependencies": {
+        "prompt-sync": "^4.2.0"
+    }
+}
