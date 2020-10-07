@@ -15,5 +15,8 @@
 Use o comando abaixo: 
 ```bash
 python main.py;
-número desejado, ou 'sair' para sair do programa
+número da base maior,
+número da base menor,
+número da altura,
+se quiser sair, digitar 'sair', caso contrário, pressionar enter
 ```
