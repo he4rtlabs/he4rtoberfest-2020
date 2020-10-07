@@ -1,6 +1,6 @@
 # Submissão de Exercicio
 
-**Exercicio:** 0 - Hello World
+**Exercicio:** 1 - Media Alunos
 
 **Nickname:** xsadia
 
@@ -15,6 +15,6 @@
 **Como rodar o desafio**: 
 
 Use o comando abaixo: 
-cd .\challenges\0-hello-world\java\xsadia> <br />
-compile com javac App.java <br />
-rode com java App <br />
+cd .\challenges\1-media-alunos\java\xsadia> <br />
+compile com javac MediaAlunos.java <br />
+rode com java MediaAlunos <br />
