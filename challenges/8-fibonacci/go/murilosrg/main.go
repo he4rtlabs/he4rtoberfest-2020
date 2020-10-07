@@ -6,10 +6,7 @@ import (
 )
 
 func main() {
-	var entrada int
-	fmt.Print("Digite o número: ")
-	fmt.Scan(&entrada)
-
+	entrada := lerNumero()
 	var resultado string
 
 	for i := 0; i < entrada; i++ {
@@ -17,7 +14,21 @@ func main() {
 	}
 
 	fmt.Println(resultado[:len(resultado)-1])
+}
 
+func lerNumero() int {
+	for {
+		var entrada int
+		fmt.Print("Digite o número: ")
+		fmt.Scan(&entrada)
+
+		if entrada <= 0 || entrada > 46 {
+			fmt.Print("entrada invalida, deve ser informado um num maior que 0 e menor que 46 \n")
+			return lerNumero()
+		}
+
+		return entrada
+	}
 }
 
 func fib(index int) int {
