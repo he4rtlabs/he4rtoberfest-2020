@@ -6,7 +6,7 @@ public class Fibonacci {
 		int input;
 		int actual = 0, previous1 = 0, previous2 = 1;
 
-		System.out.print("Digite um número: ");
+		System.out.print("Digite um número para sequência de Fibonacci: ");
 		input = scan.nextInt();
 
 		for(int i = 0; i < input; i++){
