@@ -8,6 +8,6 @@ try:
     suma = sum([float(nota) for nota in raw_notas])
     print(f"\nSua média foi: {suma/len(raw_notas)}\n")
 except ValueError:
-    print('\nArgumentos inválidos, Insira como no exemplo!\n')
+    print('\nArgumentos inválidos, insira como no exemplo!\n')
 
 print("====================================================================")
