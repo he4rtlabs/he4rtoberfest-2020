@@ -26,10 +26,7 @@ int main(){
     initialMessage = malloc(50);
     resultMessage = malloc(50);
 
-    printf("Cifra de César\n");
-    printf("[*] A primeira linha de entrada corresponde ao número de casos de teste\n");
-    printf("[*] Para cada caso, informe a sentença para ser codificada\n");
-    printf("[*] Informe também o numero de posições que cada letra sera deslocada\n");
+    printf("Informe a quantidade de casos de teste: ");
     scanf("%d", &testCases);
 
     results = malloc(testCases);
@@ -42,7 +39,9 @@ int main(){
     }
 
     for(i=0 ; i<testCases ; i++){
+        printf("Informe o texto: ");
         scanf("%s", initialMessage);
+        printf("Informe a quantidade de letras a serem deslocadas: ");
         scanf("%d", &shift);
         results[i] = caesarCipher(initialMessage, shift);
     }
