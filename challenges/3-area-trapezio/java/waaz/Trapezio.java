@@ -4,7 +4,7 @@ public class Trapezio {
 
 		public static double trapezio(double baseMaior,double baseMenor,double altura) {
 			
-			return (baseMaior + baseMenor) * (altura / 2);
+			return ((baseMaior + baseMenor) * altura) / 2;
 			
 		}
 		public static void main(String[] args) {
