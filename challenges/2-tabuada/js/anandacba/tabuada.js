@@ -1,8 +1,6 @@
 //Variável armazena o valor inserido pelo User
-var userInputNumber = 3;
-
+let userInput = process.argv.splice(2);
 function tabuada(userNumber){
-
 	//Validação se o argumento é um número
 	if(isNaN(userNumber)){
 		console.log("The value is not a number");
