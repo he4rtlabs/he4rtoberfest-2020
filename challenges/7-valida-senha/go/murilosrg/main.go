@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"os"
+	"strings"
 	"unicode"
 )
 
@@ -22,7 +23,7 @@ func main() {
 }
 
 func validaSenha(senha string) bool {
-	var uppercase, lowercase, number, special, whitespace bool
+	var uppercase, lowercase, number, special, whitespace, accent bool
 
 	for _, c := range senha {
 		switch {
@@ -39,7 +40,11 @@ func validaSenha(senha string) bool {
 		}
 	}
 
-	if special || whitespace {
+	if strings.ContainsAny(senha, "áàäëéèïíìóòöúùüÁÀÄËÉÈÏÍÌÓÒÖÚÙÜ") {
+		accent = true
+	}
+
+	if special || whitespace || accent {
 		return false
 	}
 
