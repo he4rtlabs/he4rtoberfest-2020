@@ -21,5 +21,5 @@ class ContadorLetras:
 if __name__ == '__main__':
     texto = ''' Queria ser bom em Python'''
     a = ContadorLetras(texto)
-    print(a.quantidade_letras())  # imrprime um dicionario com todas as letras
-    a.retorna_porcentagem()  # imprime porcentagem de todas as letras contidas
+    print(a.quantidade_letras())  # imrprime um dicionario com todas as letras e as vezes que apareceu
+    a.retorna_porcentagem()  # imprime porcentagem de todas as letras
