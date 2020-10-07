@@ -4,7 +4,8 @@ public class App {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-
+		
+		System.out.println("Qual número deseja exibir a tabuada?");
 		int valor = sc.nextInt();
 		
 		System.out.println("===========================");
