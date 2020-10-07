@@ -4,7 +4,7 @@
 
 **Nickname:** otaviodantas
 
-**Nível Técnico:** - Estudante/Estagiário/Junior/ -
+**Nível Técnico:** - Estagiário/Junior/ -
 
 **Twitter**: https://twitter.com/otapontopy
 
