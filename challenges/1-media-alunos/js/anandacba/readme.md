@@ -11,7 +11,7 @@
 **Comentários:** 
 
 "O desafio em si é simples, a parte de escrever o mais claro, limpo e
-objetivo possível que acredito ser o desafio."
+objetivo possível que acredito ser o desafio, o git também é bem complicado, aprendi bastante coisa contribuindo dessa forma."
 
 **Como rodar o desafio**: 
 
