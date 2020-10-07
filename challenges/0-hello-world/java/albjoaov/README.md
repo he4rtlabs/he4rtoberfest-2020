@@ -48,4 +48,7 @@ $ java hello.HelloWorld
 $ java HelloWorld.java
 ```
 
+Observação:
+> O método anterior ainda funciona
+
 Para saber mais sobre essa nova funcionalidade, segue o link: https://stackoverflow.com/questions/54493058/running-a-java-program-without-compiling/54493093
