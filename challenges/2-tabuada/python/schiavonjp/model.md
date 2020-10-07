@@ -16,5 +16,5 @@
 
 Use o comando abaixo: 
 ```bash
-python main.py argv1
+python main.py
 ```

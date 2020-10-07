@@ -1,4 +1,3 @@
-import sys
 
 def process_item(item):
     print('===========================')
@@ -10,7 +9,7 @@ def process_item(item):
     
 
 try:
-    number = int(sys.argv[1])
+    number = int(input(''))
     results = [process_item(item) for item in range(1,number+1)]
     print('===========================')
 except Exception as e:
