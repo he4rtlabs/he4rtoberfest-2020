@@ -1,10 +1,13 @@
 # -*- coding: utf-8 -*-
-""" Falta só um try except pra ficar legalzin """
 def main():
     while True:
-        num = (input("Opa, digite o número que você deseja, digite sair para parar o programa: "))
+        num = (input("Digite o número que você deseja ou \"sair\" para parar o programa: "))
         if num.upper() == "SAIR":
             break;
+        try:
+            int(num)
+        except ValueError:
+            print("Você digitou um valor inválido!")
         else:
             for i in range(int(num)):
                 print("="*30);
