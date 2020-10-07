@@ -1,6 +1,6 @@
 # Submissão de Exercicio
 
-**Exercicio:** 1 - Tabuada
+**Exercicio:** 2 - Tabuada
 
 **Nickname:** AkiraTorres
 
