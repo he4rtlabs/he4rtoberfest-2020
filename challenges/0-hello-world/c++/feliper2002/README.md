@@ -16,5 +16,5 @@
 
 Use o comando abaixo: 
 ```bash
-cpp helloworld.cpp
+cpp main.cpp
 ```
