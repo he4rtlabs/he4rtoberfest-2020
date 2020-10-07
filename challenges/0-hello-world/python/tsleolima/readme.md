@@ -1,17 +1,17 @@
-# Desafio #0
+# Submissão de Exercicio
 
-**Nome:** Hello world
+**Exercicio:** 0 - Hello World
 
-**Descrição**: O desafio em questão será a porta de entrada para o nosso evento principal. Todos os membros deverão fazer um Hello World em qualquer uma das linguagens para continuar para pŕoxima fase.
+**Nickname:** tsleolima
 
-Nesse desafio espera-se que você siga o [modelo de desafio](../model.md) e aplique-o corretamente. 
+**Nível Técnico:** Estudante
 
-A mensagem não necessáriamente precisa ser Hello World, você pode ser criativo e fazer algo do seu gosto sem ferir em algum momento 
+**Linkedin**: https://www.linkedin.com/in/leonardo-lima-215b25138/
 
-**Input/Args**: Não requerido
+**Como rodar o desafio**:
 
-**Output**:
+Use o comando abaixo:
 
-```
-Hello He4rtoberfest
+```bash
+python challenge.py
 ```
