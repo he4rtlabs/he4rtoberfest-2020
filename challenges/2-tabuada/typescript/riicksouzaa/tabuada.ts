@@ -5,11 +5,11 @@ let rl = readline.createInterface({
     output: process.stdout
 });
 
-rl.question('Quer saber a tabuada de qual número? ', (numero: number) => {
-    if (isNumber(numero)) {
-        fazerTabuada(numero)
+rl.question('Quer saber a tabuada de qual número? ', (answer: string) => {
+    if (isNumber(answer)) {
+        fazerTabuada(parseInt(answer))
     } else {
-        console.log('só consigo multiplicar números')
+        console.log('Só consigo multiplicar números')
     }
     rl.close();
 });
