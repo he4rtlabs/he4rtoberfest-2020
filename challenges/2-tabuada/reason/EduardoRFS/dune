@@ -1,0 +1,3 @@
+(executable
+ (name tabuada)
+ (public_name tabuada))
