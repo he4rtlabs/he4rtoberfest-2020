@@ -1,5 +1,4 @@
 function mediaAlunos(a, b){
-    console.log()
     if(!a && !b){
         return "As duas notas são obrigatórias"
     }
