@@ -6,7 +6,7 @@
 
 **Nível Técnico:** - Estudante -
 
-**Twitter**: https://twitter.com/feliper_ia (opcional)
+**Twitter**: https://twitter.com/feliper_ia
 
 **Dificuldade de Resolução:** - Baixa -
 
