@@ -5,7 +5,7 @@ function decodeCipher(numberOfPositions, message) {
     if (numberOfPositions < 0 || numberOfPositions > 25) {
         return 'O número de posições precisa ser entre 0 e 25.';
     };
-    if(message.length > 0 && message.length <= 50) {
+    if(message.length < 0 && message.length > 50) {
         return 'A mensagem precisa conter entre 1 e 50 caracteres.';
     };
 
