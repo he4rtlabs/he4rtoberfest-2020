@@ -1,20 +1,20 @@
 # Submissão de Exercicio
 
-**Exercicio:** 0 - Hello World
+**Exercicio:** 1 - Média Alunos
 
-**Nickname:** danielhe4rt
+**Nickname:** feliper2002
 
-**Nível Técnico:** - Estudante/Estagiário/Junior/Pleno/Senior -
+**Nível Técnico:** - Estudante -
 
-**Twitter**: https://twitter.com/danielhe4rt (opcional)
+**Twitter**: https://twitter.com/feliper_ia (opcional)
 
-**Dificuldade de Resolução:** - Baixa/Média/Alta -
+**Dificuldade de Resolução:** - Baixa -
 
-**Comentários:** Nesse desafio eu achei que ... (Opcional)
+**Comentários:** 
 
 **Como rodar o desafio**: 
 
 Use o comando abaixo: 
 ```bash
-php helloworld.php argv1 argv2 argv3
+cpp main.cpp
 ```
