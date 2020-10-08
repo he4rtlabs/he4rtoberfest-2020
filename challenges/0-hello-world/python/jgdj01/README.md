@@ -6,7 +6,7 @@
 
 **Nível Técnico:** - Estudante-
 
-**Twitter**: https://twitter.com/jgdj011 (opcional)
+**Twitter**: https://twitter.com/jgdj011
 
 **Dificuldade de Resolução:** - Baixa -
 
