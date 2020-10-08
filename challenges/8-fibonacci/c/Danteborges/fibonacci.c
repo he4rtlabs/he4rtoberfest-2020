@@ -5,13 +5,13 @@ int main ()
 
 int n, i, a = 0, b = 1, c = 0;
 scanf("%d", &n);
-if(n>= 46)
+if( n<=0 ||n>= 46)
 {
     printf("valor nao aceito\n");
     return 0;
 }
 
-if (n == 0 || n == 1)
+if ( n == 1)
 {
 
   printf("%d", a);
