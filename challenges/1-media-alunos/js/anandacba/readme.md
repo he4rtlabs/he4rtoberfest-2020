@@ -18,4 +18,3 @@ objetivo possível que acredito ser o desafio, o git também é bem complicado, 
 Use o comando abaixo: 
 ```bash
 node mediaAlunos.js
-```
