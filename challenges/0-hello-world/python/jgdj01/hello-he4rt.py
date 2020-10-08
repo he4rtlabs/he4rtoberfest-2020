@@ -1,0 +1,1 @@
+print("Olá comunidade He4rt!")
