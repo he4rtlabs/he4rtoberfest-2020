@@ -3,10 +3,7 @@
 using namespace std;
 
 void tabuada(int numero) {
-<<<<<<< Updated upstream
-=======
 
->>>>>>> Stashed changes
     for (int i=1; i<=numero; i++) {
         cout << "===========================" << endl;
         cout << "A tabuada do numero " << i << " e:" << endl;
@@ -14,10 +11,7 @@ void tabuada(int numero) {
             cout << i << "*" << j << " = " << (i*j) << endl;
         }
     }
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
+    cout << "===========================";
 }
 
 int main() {
