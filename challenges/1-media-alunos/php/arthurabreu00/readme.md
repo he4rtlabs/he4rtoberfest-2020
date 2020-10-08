@@ -16,5 +16,5 @@
 
 Use o comando abaixo: 
 ```bash
-php average.php
+php average.php firstNumber secondNumber
 ```
