@@ -8,9 +8,7 @@
 
 **Twitter**: https://twitter.com/Apenas_Kev
 
-**Dificuldade de Resolução:** - Baixa/Média/Alta -
-
-**Comentários:** Nesse desafio eu achei que ... (Opcional)
+**Dificuldade de Resolução:** - Baixa -
 
 **Como rodar o desafio**: 
 
