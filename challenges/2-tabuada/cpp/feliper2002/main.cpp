@@ -3,7 +3,6 @@
 using namespace std;
 
 void tabuada(int numero) {
-
     for (int i=1; i<=numero; i++) {
         cout << "===========================" << endl;
         cout << "A tabuada do numero " << i << " e:" << endl;
@@ -11,7 +10,6 @@ void tabuada(int numero) {
             cout << i << "*" << j << " = " << (i*j) << endl;
         }
     }
-
 }
 
 int main() {
