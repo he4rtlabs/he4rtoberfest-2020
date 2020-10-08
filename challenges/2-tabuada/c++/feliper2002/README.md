@@ -2,11 +2,11 @@
 
 **Exercicio:** 2 - Tabuada
 
-**Nickname:** lucashe4rt
+**Nickname:** feliper2002
 
-**Nível Técnico:** - Estudante/Junior -
+**Nível Técnico:** - Estudante -
 
-**Twitter**: https://twitter.com/lucashe4rt
+**Twitter**: https://twitter.com/feliper_ia
 
 **Dificuldade de Resolução:** - Baixa -
 
