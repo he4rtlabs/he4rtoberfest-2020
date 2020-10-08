@@ -10,7 +10,7 @@
 
 **Dificuldade de Resolução:** - Média
 
-**Como rodar o desafio**: Joga no console do dev tools ou executa com o node
+**Como rodar o desafio**: Joga no console do navegador ou executa com o node
 
 Use o comando abaixo: 
 ```bash
