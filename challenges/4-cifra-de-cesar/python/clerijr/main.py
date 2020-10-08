@@ -10,7 +10,6 @@ def main():
             if len(cifra) > 50:
                 print("Digite uma mensagem com até 50 caracteres!")
                 break
-            cifra.upper()
             try:
                 cifraPos = int(input("Digite quantas posições para decodificar, de 0 a 25: "))
                 while cifraPos < 0 or cifraPos > 25:
@@ -21,7 +20,12 @@ def main():
             else:
                 decoded = ''
                 for char in cifra:
-                    if (ord(char) - cifraPos) < 65:
+                    """ Este bloco if checa letra por letra, e atuará para maiúsculas e menúsculas """
+                    upperBuffer = 97
+                    if char.isupper():
+                        upperBuffer = 65
+                    """ Bloco principal para transformar as letras """
+                    if (ord(char) - cifraPos) < upperBuffer:
                         char = chr((ord(char)-cifraPos)+26)
                     else:
                         char = chr((ord(char)-cifraPos))
