@@ -16,5 +16,6 @@
 
 Use o comando abaixo: 
 ```bash
-cpp main.cpp
+g++ main.cpp -o main
+./main
 ```

@@ -10,5 +10,6 @@ void calculaMedia(int nota1, int nota2) {
 
 int main() {
     int nota1, nota2; cin >> nota1 >> nota2;
+    calculaMedia(nota1, nota2);
     return 0;
 }
