@@ -10,7 +10,7 @@
 
 **Dificuldade de Resolução:** - Baixa -
 
-**Comentários:** Nesse desafio eu achei que ... (Opcional)
+**Comentários:** 
 
 **Como rodar o desafio**: 
 
