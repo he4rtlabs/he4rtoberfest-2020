@@ -2,7 +2,7 @@ defmodule Fibonacci do
   def build do
     number = read("Digite um numero: ")
 
-    Enum.map(0..number, fn n -> fib(n) end)
+    Enum.map(0..(number - 1), fn n -> fib(n) end)
     |> Enum.join(" ")
     |> IO.puts()
   end
