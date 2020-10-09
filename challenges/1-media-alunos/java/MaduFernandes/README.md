@@ -20,5 +20,5 @@ cd challenges/1-media-alunos/java/MaduFernandes
 
 javac MediaAluno.java
 
-java Media
+java MediaAluno
 ```
