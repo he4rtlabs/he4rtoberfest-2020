@@ -12,7 +12,7 @@
 
 **Como rodar o desafio**: 
 
-Com o node instalado, use o comando abaixo: 
+Com o node instalado, use o comando abaixo no terminal: 
 ```bash
 node my-presentation.js
 ```
