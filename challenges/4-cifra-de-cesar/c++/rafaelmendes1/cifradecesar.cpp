@@ -12,15 +12,14 @@ int main() {
 
   cin >> cont;
 
-  while(cont>0){
+  while(cont>0) {
     cin >> mensagem;
     cin >> posicoesPular;
     cout << "Decifrado: ";
     for(int i=0; i<mensagem.size();i++){
       letra = toupper(mensagem[i]);
       if(letra-posicoesPular < 65){
-        letra += 16;
-        mensagem[i] = letra;
+        mensagem[i] = (letra-posicoesPular) + 26;
       }else {
         mensagem[i] = letra-posicoesPular;
       }
