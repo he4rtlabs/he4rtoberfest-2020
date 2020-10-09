@@ -14,5 +14,5 @@
 
 Use o comando abaixo: 
 ```bash
-node hello-world
+node media-alunos.js
 ```
