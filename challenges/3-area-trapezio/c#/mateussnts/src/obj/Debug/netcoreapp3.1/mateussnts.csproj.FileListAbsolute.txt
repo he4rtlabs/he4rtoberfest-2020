@@ -1,0 +1,13 @@
+C:\Users\matth\Documents\he4rtoberfest-2020\challenges\3-area-trapezio\c#\mateussnts\src\obj\Debug\netcoreapp3.1\mateussnts.csprojAssemblyReference.cache
+C:\Users\matth\Documents\he4rtoberfest-2020\challenges\3-area-trapezio\c#\mateussnts\src\obj\Debug\netcoreapp3.1\mateussnts.AssemblyInfoInputs.cache
+C:\Users\matth\Documents\he4rtoberfest-2020\challenges\3-area-trapezio\c#\mateussnts\src\obj\Debug\netcoreapp3.1\mateussnts.AssemblyInfo.cs
+C:\Users\matth\Documents\he4rtoberfest-2020\challenges\3-area-trapezio\c#\mateussnts\src\obj\Debug\netcoreapp3.1\mateussnts.csproj.CoreCompileInputs.cache
+C:\Users\matth\Documents\he4rtoberfest-2020\challenges\3-area-trapezio\c#\mateussnts\src\bin\Debug\netcoreapp3.1\mateussnts.exe
+C:\Users\matth\Documents\he4rtoberfest-2020\challenges\3-area-trapezio\c#\mateussnts\src\bin\Debug\netcoreapp3.1\mateussnts.deps.json
+C:\Users\matth\Documents\he4rtoberfest-2020\challenges\3-area-trapezio\c#\mateussnts\src\bin\Debug\netcoreapp3.1\mateussnts.runtimeconfig.json
+C:\Users\matth\Documents\he4rtoberfest-2020\challenges\3-area-trapezio\c#\mateussnts\src\bin\Debug\netcoreapp3.1\mateussnts.runtimeconfig.dev.json
+C:\Users\matth\Documents\he4rtoberfest-2020\challenges\3-area-trapezio\c#\mateussnts\src\bin\Debug\netcoreapp3.1\mateussnts.dll
+C:\Users\matth\Documents\he4rtoberfest-2020\challenges\3-area-trapezio\c#\mateussnts\src\bin\Debug\netcoreapp3.1\mateussnts.pdb
+C:\Users\matth\Documents\he4rtoberfest-2020\challenges\3-area-trapezio\c#\mateussnts\src\obj\Debug\netcoreapp3.1\mateussnts.dll
+C:\Users\matth\Documents\he4rtoberfest-2020\challenges\3-area-trapezio\c#\mateussnts\src\obj\Debug\netcoreapp3.1\mateussnts.pdb
+C:\Users\matth\Documents\he4rtoberfest-2020\challenges\3-area-trapezio\c#\mateussnts\src\obj\Debug\netcoreapp3.1\mateussnts.genruntimeconfig.cache
