@@ -10,7 +10,7 @@
 
 **Dificuldade de Resolução:** - Baixa -
 
-**Comentários:** Fiz uma implementação recursiva para o problema
+**Comentários:** Implementação iterativa do problema
 
 **Como rodar o desafio**: 
 
