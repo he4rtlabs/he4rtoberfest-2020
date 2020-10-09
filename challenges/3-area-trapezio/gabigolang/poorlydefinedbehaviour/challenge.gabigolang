@@ -1,0 +1,11 @@
+POZE calculateTrapezeArea(greaterBase, smallerBase, height) {
+  /*
+    In Joe Armstrong style,
+    just let it crash
+  */
+  MARACANA area = (greaterBase + smallerBase) * height / 2
+
+  PLAQUINHA "A área do trapézio é: " + area
+}
+
+calculateTrapezeArea(8, 3, 5)

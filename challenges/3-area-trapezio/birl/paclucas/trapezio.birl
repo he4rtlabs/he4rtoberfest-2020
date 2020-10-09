@@ -1,0 +1,18 @@
+HORA DO SHOW
+    TRAPEZIO baseMaior, baseMenor, altura;
+
+    QUE QUE CE QUER MONSTRAO? ("%f", &baseMaior);
+    CE QUER VER ESSA PORRA? ("\nValor base maior: %.1f", baseMaior);
+
+    QUE QUE CE QUER MONSTRAO? ("%f", &baseMenor);
+    CE QUER VER ESSA PORRA? ("\nValor base menor: %.1f", baseMenor);
+
+    QUE QUE CE QUER MONSTRAO? ("%f", &altura);
+    CE QUER VER ESSA PORRA? ("\nValor altura: %.1f", altura);
+
+    TRAPEZIO res = (baseMaior + baseMenor) * altura /2;
+    CE QUER VER ESSA PORRA? ("\nA área do trapézio é: %.1f", res);
+
+    CE QUER VER ESSA PORRA?("\n^._.^\n");
+    BORA CUMPADE 0;
+BIRL 

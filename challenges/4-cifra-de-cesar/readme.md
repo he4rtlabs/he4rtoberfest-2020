@@ -8,22 +8,26 @@ Júlio César usava um sistema de criptografia, agora conhecido como Cifra de C�
 
 A entrada contém vários casos de teste. A primeira linha de entrada contém um inteiro N que indica a quantidade de casos de teste. Cada caso de teste é composto por duas linhas. A primeira linha contém uma string com até 50 caracteres maiúsculos ('A'-'Z'), que é a sentença após ela ter sido codificada através desta Cifra de César modificada. A segunda linha contém um número que varia de 0 a 25 e que representa quantas posições cada letra foi deslocada para a direita.
 
-**Input/Args**: numeroPosicoes, mensagem
+**Input/Args**: numeroCasos, numeroPosicoes, mensagem
 
+Casos de teste:
+```
+3
+```
 Entrada 1:
 ```
-6
 VQREQFGT
+2
 ```
 Entrada 2:
 ```
-2
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
+10
 ```
 Entrada 3:
 ```
-10
 TOPCODER
+0
 ```
 
 

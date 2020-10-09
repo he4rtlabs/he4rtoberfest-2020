@@ -1,0 +1,12 @@
+C:\Users\pc\Desktop\he4rtoberfest-2021\challenges\0-hello-world\vb\cristopherpds\Hello-world\Hello-world\bin\Debug\Hello-world.exe.config
+C:\Users\pc\Desktop\he4rtoberfest-2021\challenges\0-hello-world\vb\cristopherpds\Hello-world\Hello-world\bin\Debug\Hello-world.exe
+C:\Users\pc\Desktop\he4rtoberfest-2021\challenges\0-hello-world\vb\cristopherpds\Hello-world\Hello-world\bin\Debug\Hello-world.pdb
+C:\Users\pc\Desktop\he4rtoberfest-2021\challenges\0-hello-world\vb\cristopherpds\Hello-world\Hello-world\bin\Debug\Hello-world.xml
+C:\Users\pc\Desktop\he4rtoberfest-2021\challenges\0-hello-world\vb\cristopherpds\Hello-world\Hello-world\obj\Debug\Hello-world.vbprojAssemblyReference.cache
+C:\Users\pc\Desktop\he4rtoberfest-2021\challenges\0-hello-world\vb\cristopherpds\Hello-world\Hello-world\obj\Debug\Hello_world.Form1.resources
+C:\Users\pc\Desktop\he4rtoberfest-2021\challenges\0-hello-world\vb\cristopherpds\Hello-world\Hello-world\obj\Debug\Hello_world.Resources.resources
+C:\Users\pc\Desktop\he4rtoberfest-2021\challenges\0-hello-world\vb\cristopherpds\Hello-world\Hello-world\obj\Debug\Hello-world.vbproj.GenerateResource.cache
+C:\Users\pc\Desktop\he4rtoberfest-2021\challenges\0-hello-world\vb\cristopherpds\Hello-world\Hello-world\obj\Debug\Hello-world.vbproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\he4rtoberfest-2021\challenges\0-hello-world\vb\cristopherpds\Hello-world\Hello-world\obj\Debug\Hello-world.exe
+C:\Users\pc\Desktop\he4rtoberfest-2021\challenges\0-hello-world\vb\cristopherpds\Hello-world\Hello-world\obj\Debug\Hello-world.xml
+C:\Users\pc\Desktop\he4rtoberfest-2021\challenges\0-hello-world\vb\cristopherpds\Hello-world\Hello-world\obj\Debug\Hello-world.pdb
