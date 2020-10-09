@@ -14,5 +14,5 @@
 
 Use o comando abaixo: 
 ```bash
-node hello-world.js
+node tabuada.js
 ```
