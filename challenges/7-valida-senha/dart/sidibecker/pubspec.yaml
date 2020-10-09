@@ -1,0 +1,3 @@
+name: validador_senha
+dependencies:
+  diacritic: ^0.1.1
