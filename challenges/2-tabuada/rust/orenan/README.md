@@ -17,5 +17,5 @@
 Use o comando abaixo:
 
 ```bash
-$ cargo play hello.rs -- 2
+$ cargo play tabuada.rs -- 2
 ```
