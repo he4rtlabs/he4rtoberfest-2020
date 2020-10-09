@@ -16,8 +16,11 @@ def fibonacci(num: int):
         print(string.removesuffix(' '), end=' ')
 
 def executa():
-    valor = int(input())
-    fibonacci(valor)
+    valor = int(input('Quantidade de elementos da Sequencia de Fibonacci que deseja: '))
+    if (valor > 0 and valor < 46):
+        fibonacci(valor)
+    else:
+        print('Você só pode visualizar até 45 elementos.')
 
 if __name__ == '__main__':
     executa()
