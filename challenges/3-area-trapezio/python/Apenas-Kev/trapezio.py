@@ -5,6 +5,6 @@ while True:
         base_menor = float(input('Qual a base menor?: '))
         break;
     except ValueError:
-        print('-------- ERRO --------\nInsira somente numeros.')
+        print(f'\n{"-" * 8} ERRO {"-" * 8}\nInsira somente numeros.\n')
 
 print(f'A área do trapézio é: {(base_maior + base_menor) * altura / 2}')
