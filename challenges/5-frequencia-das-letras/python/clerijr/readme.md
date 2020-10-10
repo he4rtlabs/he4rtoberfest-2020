@@ -16,6 +16,7 @@
 
 Use o comando abaixo: 
 ```bash
+Executar main.py
 Digitar número de casos,
 Digitar frase desejada
 ```
