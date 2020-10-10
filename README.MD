@@ -2,7 +2,7 @@
 <!-- Title -->
 
 <p align="center">
-  <h2 align="center">He4rtoberfest 2020 </h2>
+  <h2 align="center">He4rtoberfest 2020 - FINALIZADO </h2>
 </p>
     
  <!-- ABOUT THE PROJECT -->
