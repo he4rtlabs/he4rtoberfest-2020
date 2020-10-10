@@ -1,0 +1,14 @@
+{
+  "name": "mlg404",
+  "version": "1.0.0",
+  "description": "",
+  "main": "media.js",
+  "scripts": {
+    "media": "node media.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompts": "^2.3.2"
+  }
+}
