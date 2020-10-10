@@ -17,7 +17,7 @@ int main(void){
 
 	printf("%c%c\n", *hll, *hll); //o ponteiro hll está no endereço onde o valor é '!'
 
-	printf("\n\nPress Ctrl+C for exit\n");
-	while(1);
+	printf("\n\nPress ENTER for exit\n");
+	getchar();
 	return 0;
 }

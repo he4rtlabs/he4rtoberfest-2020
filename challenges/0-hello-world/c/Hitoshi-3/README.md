@@ -4,15 +4,11 @@
 
 **Nickname:** Hitoshi-3
 
-**Nível Técnico:** - Estudante -
+**Nível Técnico:** Estudante  
 
-**Twitter**:  
+**Dificuldade de Resolução:** Baixa  
 
-**Dificuldade de Resolução:** - Baixa -
-
-**Comentários:** 7
-
-**Como rodar o desafio**: 
+**Como rodar o desafio**:  
 
 Use o comando abaixo: 
 
