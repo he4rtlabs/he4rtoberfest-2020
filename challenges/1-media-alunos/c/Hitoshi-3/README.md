@@ -21,5 +21,5 @@ gcc media.c -o media
 - Windows (MingW):  
 ```batch
 gcc media.c -o media.exe
-hello
+media
 ```
