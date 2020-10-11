@@ -9,17 +9,18 @@ fn main() {
         .read_line(&mut entrada)
         .expect("Falha na leitura");
 
-    let notas: Vec<usize> = entrada
+    let notas: Vec<f32> = entrada
         .split_whitespace()
-        .map(|valor| valor.parse().expect("parse error"))
+        .map(|valor| valor.parse::<f32>().expect("parse error"))
         .collect();
-    
+
     let media = calcular_media(notas);
+
     println!("A média de suas notas é {}", media);
 }
 
-fn calcular_media(notas: Vec<usize>) -> usize {
-    let total_notas: usize = notas.iter().sum();
+fn calcular_media(notas: Vec<f32>) -> f32 {
+    let total_notas: f32 = notas.iter().sum();
 
-    total_notas / notas.len()
+    total_notas / notas.len() as f32
 }
