@@ -12,6 +12,15 @@
 
 **Como rodar o desafio**:
 
-```bash
+No windows:
 
+```bash
+rdmd media.d
+```
+
+No Linux:
+
+```bash
+chmod +x media.d
+./media.d
 ```
