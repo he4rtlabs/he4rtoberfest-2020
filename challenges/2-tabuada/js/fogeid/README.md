@@ -6,7 +6,7 @@
 
 **Nível Técnico:** - Junior
 
-**Twitter**: https://twitter.com/fogeid
+**Twitter**: https://twitter.com/fuckingfogeid
 
 **Dificuldade de Resolução:** - Baixa
 
