@@ -10,4 +10,4 @@ function tabuada(num) {
     return 'by Fogeid';
 }
 
-console.log(tabuada(5));
+console.log(tabuada(1));
