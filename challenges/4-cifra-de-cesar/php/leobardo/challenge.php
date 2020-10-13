@@ -13,7 +13,7 @@ try {
         $mensagens[] = readline('Digite a mensagem: ');
 
         if (!ctype_alpha($mensagens[$i])) {
-            throw new Exception('Digite apenas letras do alfabeto na mensagem.');
+            throw new Exception('A mensagem deve conter apenas letras.');
         }
 
         $numeroPosicoes[] = readline('Digite a quantidade de posições que deve ser pulada: ');

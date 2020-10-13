@@ -10,7 +10,7 @@
 
 **Dificuldade de Resolução:** - Difícil
 
-**Comentários:** Nesse desafio eu achei que sim.
+**Comentários:** Foi um desafio difícil já que não havia o conhecimento das funções ord e chr, então primeiro pensei em realizar com um array com todas as letras do alfabeto, mas então recebi a dica de utilizar estas funções, e quebrei a cabeça em como utilizar elas da maneira correta, e agora finalmente consegui.
 
 **Como rodar o desafio**: 
 
