@@ -11,5 +11,5 @@
 Use o comando abaixo:
 
 ```shell-session
-./media-alunos.sh
+./media-alunos.sh <nota 1> <nota 2>
 ```
