@@ -11,5 +11,5 @@
 Use o comando abaixo:
 
 ```shell-session
-./tabuada.sh
+./tabuada.sh <number>
 ```
