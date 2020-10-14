@@ -4,7 +4,7 @@
 **Nickname:** rafif0s
 **Nível Técnico:** Júnior
 **Twitter**: https://twitter.com/rafif0s (opcional)
-**Dificuldade de Resolução:** Baixa
+**Dificuldade de Resolução:** Alta
 **Comentários:** Tranquilo, também.
 **Como rodar o desafio**:
 
