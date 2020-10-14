@@ -11,5 +11,5 @@
 Use o comando abaixo:
 
 ```shell-session
-./area-trapezio.sh
+./area-trapezio.sh <baseMaior> <baseMenor> <altura>
 ```
