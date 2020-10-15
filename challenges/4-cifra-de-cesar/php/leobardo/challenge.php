@@ -10,27 +10,22 @@ try {
     echo 'ENTRADAS' . PHP_EOL . PHP_EOL;
     for ($i = 0; $i < $numeroCasos; $i++) {
         echo 'Entrada número ' . ($i + 1) . PHP_EOL;
-        $mensagens[] = readline('Digite a mensagem: ');
+        $mensagem = readline('Digite a mensagem: ');
 
-        if (!ctype_alpha($mensagens[$i])) {
+        if (!ctype_alpha($mensagem)) {
             throw new Exception('A mensagem deve conter apenas letras.');
         }
 
-        $numeroPosicoes[] = readline('Digite a quantidade de posições que deve ser pulada: ');
+        $numeroPosicao = readline('Digite a quantidade de posições que deve ser pulada: ');
 
-        if (!is_numeric($numeroPosicoes[$i])) {
+        if (!is_numeric($numeroPosicao)) {
             throw new Exception('A quantidade de posições a ser pulada deve ser um número.');
         }
-        echo PHP_EOL;
-    }
 
-    echo 'SAÍDAS' . PHP_EOL . PHP_EOL;
-    for ($i = 0; $i < $numeroCasos; $i++) {
-        echo 'Saída número ' . ($i + 1) . PHP_EOL;
-        $numeroPosicao = (int)$numeroPosicoes[$i];
-        $mensagem = str_split(strtoupper($mensagens[$i]));
+        $numeroPosicao = (int)$numeroPosicao;
+        $mensagem = str_split(strtoupper($mensagem));
 
-        array_map(function ($element) use ($numeroPosicao) {
+        $letrasPalavra = array_map(function ($element) use ($numeroPosicao) {
             $ordLetra = ord($element);
             $calcOrd = $ordLetra - $numeroPosicao;
 
@@ -40,8 +35,18 @@ try {
             }
 
             $novaLetra = chr($calcOrd);
-            echo $novaLetra;
+            return $novaLetra;
         }, $mensagem);
+
+        $palavras[] = implode('', $letrasPalavra);
+
+        echo PHP_EOL;
+    }
+
+    echo 'SAÍDAS' . PHP_EOL . PHP_EOL;
+    for ($i = 0; $i < $numeroCasos; $i++) {
+        echo 'Saída número ' . ($i + 1) . PHP_EOL;
+        echo $palavras[$i];
         echo PHP_EOL . PHP_EOL;
     }
 } catch (Exception $e) {

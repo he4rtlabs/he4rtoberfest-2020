@@ -16,5 +16,5 @@
 
 Use o comando abaixo: 
 ```bash
-php challenge.php numeroPosicoes mensagem
+php challenge.php numeroCasos
 ```
