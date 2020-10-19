@@ -6,15 +6,11 @@
 
 **Nível Técnico:** - Estagiário
 
-**Twitter**: 
-
 **Dificuldade de Resolução:** - Baixa
 
-**Comentários:** 
+**Como rodar o desafio**:
 
-**Como rodar o desafio**: 
-
-Use o comando abaixo: 
+Use o comando abaixo:
 ```bash
 cd challenges/1-media-alunos/java/MaduFernandes
 
