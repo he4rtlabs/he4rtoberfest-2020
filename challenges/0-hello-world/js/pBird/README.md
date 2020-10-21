@@ -14,7 +14,9 @@
 
 **Como rodar o desafio**: 
 
-Use o comando abaixo: 
+Use o comando abaixo:
+
 ```bash
+node helloWorld.js
 ```
 
