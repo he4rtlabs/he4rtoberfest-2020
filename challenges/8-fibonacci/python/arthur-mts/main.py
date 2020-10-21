@@ -2,7 +2,7 @@ def fibo(n):
     ns = [0]
     res = "0"
     if((n <= 1) or (n > 46)):
-        return res
+        return 'O número digitado é invalido'
     else:
         for i in range(1, n):
             if (i == 1):
