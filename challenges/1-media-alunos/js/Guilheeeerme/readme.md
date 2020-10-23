@@ -1,6 +1,6 @@
 # Submissão de Exercicio
 
-**Exercício:** 0 - Hello World
+**Exercício:** 1 - Média Alunos
 
 **Nickname:** Guilheeeerme
 
@@ -16,7 +16,7 @@ Use o comando abaixo:
 
 ```bash
 # Na raiz da pasta do projeto, navegue até o diretório da resolução:
-cd challenges/0-hello-world/js/Guilheeeerme/
+cd challenges/1-media-alunos/js/Guilheeeerme/
 
 # Então, execute o arquivo com:
 node index.js
