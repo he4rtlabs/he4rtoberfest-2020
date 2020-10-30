@@ -15,7 +15,7 @@
 Use o comando abaixo:
 
 ```bash
-node index.js arg1, arg2 arg3...
+node index.js baseMaior, baseMenor altura...
 ```
 
 
